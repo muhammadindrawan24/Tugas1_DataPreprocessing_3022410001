@@ -1,0 +1,419 @@
+ID_Pasien,Nama_Pasien,Kode_RS,Jenis_Kelamin,Usia,Berat_Badan,Tinggi_Badan,BMI,Tekanan_Sistolik,Tekanan_Diastolik,Gula_Darah,Kolesterol,Detak_Jantung,Diagnosis,Jenis_Asuransi,Ruang_Rawat,Tanggal_Masuk,Tanggal_Keluar,Lama_Rawat_Hari,Biaya_Perawatan,Readmisi_30Hari,Status_Pulang,Catatan_Alergi
+PSN0263,Hendra Susanti,RS-01,Laki-laki,43.0,72.3,172.3,24.4,115.0,67.0,99.1,200.0,91.0,Gagal Jantung, BPJS,Kelas 1,28/02/2025,2025-03-05,5.0,Rp 18.270.000,Tidak,Sembuh,
+PSN0348,Lestari Rahayu,RS-01,Perempuan,60.0,76.6,165.4,28.0,125.0,82.0,219.0,200.0,75.0,Diabetes Melitus,Swasta,Kelas 3,27 Jun 2025,2025-07-04,7.0,4286000,Tidak,Dirujuk,
+PSN0393,Dewi Kurniawan,RS-01,Laki-laki,62.0,83.7,163.2,31.4,137.0,87.0,216.7,246.0,85.0,Diabetes Melitus,BPJS,VIP,06/01/2025,07/01/2025,1.0,2882000,Tidak,Sembuh,
+PSN0075,Dedi Setiawan,RS-01,Laki-laki,51.0,82.3,165.9,29.9,143.0,88.0,109.0,192.0,77.0,Pneumonia,BPJS,Vip,2025-09-23,27/09/2025,4.0,15625000,Tidak,Sembuh,
+PSN0238,Eko Saputra,RS-01,Perempuan,38.0,69.5,1.57,28.1,152.0,92.0,102.4,155.0,82.0,Stroke,Swasta,Kelas 3,2025-09-29,2025-10-03,4.0,2992000,Tidak,Sembuh,Penisilin
+PSN0213,Hendra Pratama,RS-01,Laki-laki,29.0,61.6,167.7,21.9,147.0,98.0,98.4,217.0,78.0,Hipertensi ,Umum,Kelas 3,01/09/2025,09 Sep 2025,8.0,3707000,Tidak,Dirujuk,
+PSN0190,Joko Pratama,RS-01,Perempuan,47.0,56.7,143.8,,125.0,70.0,131.6,,74.0,Gagal Jantung, BPJS,Kelas 2,2025-01-29,2025-02-05,7.0,16368000,Tidak,Dirujuk,
+PSN0061,Ayu Nugroho,RS-01,Perempuan,48.0,60.1,1.6,,137.0,82.0,107.9,249.0,98.0,Gagal Jantung,BPJS Kesehatan,VIP,23/08/2025,10 Sep 2025,18.0,30592000,Tidak,Sembuh,Penisilin
+PSN0252,Ahmad Wijaya,RS-01,tidak ada,34.0,55.3,155.2,23.0,152.0,96.0,95.6,179.0,62.0,hipertensi,BPJS,Kelas 1,09 May 2025,15/05/2025,6.0,14233000,Tidak,Sembuh,
+PSN0365,Sri Handayani,RS-01,Perempuan,31.0,61.4,,29.0,125.0,77.0,135.4,216.0,104.0,gagal jantung,BPJS,Kelas 3,23 May 2025,06 Jun 2025,14.0,11369000,Tidak,Sembuh,
+PSN0259,Ratna Handayani,RS-01,Perempuan,56.0,62.6,161.0,24.2,133.0,83.0,110.8,197.0,63.0,DBD,BPJS,Kelas 3,10 Sep 2025,2025-09-16,6.0,10163000,Tidak,Sembuh,
+PSN0229,Rina Nugroho,RS-01,Perempuan,63.0,55.1,151.3,24.1,139.0,80.0,220.2,172.0,86.0,Diabetes Melitus,BPJS,kelas 1,17 Sep 2025,29 Sep 2025,12.0,20670000,Tidak,Sembuh,
+PSN0071,Sri Nugroho,RS-01,Laki-laki,55.0,71.2,163.1,26.8,150.0,93.0,103.3,166.0,81.0,Hipertensi,Asuransi Swasta,Kelas 3,07 Mar 2025,09/03/2025,2.0,1507000,Tidak,Sembuh,
+PSN0114,Rizky Wijaya,RS-01,Perempuan,61.0,49.8,148.0,22.7,122.0,81.0,,,78.0,Diabetes Melitus,BPJS,Kelas 2,06 Sep 2025,12/09/2025,6.0,8635000,Tidak,Sembuh,
+PSN0202,Eko Kurniawan,RS-01,Perempuan,42.0,70.1,158.9,27.8,146.0,,-999.0,208.0,72.0,,Umum,Kelas 1,2025-01-21,2025-01-26,5.0,13740000,Tidak,Sembuh,
+PSN0138,Dedi Setiawan,RS-01,Laki-laki,39 th,89.3,175.0,29.2,119.0,70.0,145.7,164.0,86.0,demam berdarah,Swasta,Kelas 2,2025-01-10,13 Jan 2025,3.0,3912000,Tidak,Sembuh,Penisilin
+PSN0385,Rina Susanti,RS-01,Laki-laki,50.0,91.6,171.2,,162.0,88.0,109.4,180.0,70.0,Hipertensi, BPJS,Kelas 3,14 Sep 2025,15 Sep 2025,1.0,1276000,Tidak,Sembuh,Debu
+PSN0324,Mega Saputra,RS-01,Laki-laki,,71.8,166.6,25.9,146.0,82.0,119.1,219.0,,demam berdarah,BPJS,kelas 2,01/11/2025,04/11/2025,3.0,3963000,Tidak,Sembuh,
+PSN0198,Lestari Rahayu,RS-01,Laki-laki,,85.6,170.8,29.3,129.0,83.0,112.6,237.0,98.0,Gagal  Jantung,BPJS,Kelas 3,25/03/2025,20 Apr 2025,26.0,33193000,Tidak,Sembuh,
+PSN0170,Nur Susanti,RS-01,Laki-laki,56.0,55.9,162.1,21.3,134.0,82.0,214.4,200.0,88.0,Diabetes Melitus,BPJS Kesehatan,Kelas 1,2025-07-30,2025-08-10,11.0,18571000,Tidak,Sembuh,
+PSN0218,Sri Handayani,RS-01,Laki-laki,67.0,73.7,162.4,27.9,146.0,77.0,216.5,175.0,71.0,Diabetes Mellitus, BPJS,II,19 Dec 2025,23 Dec 2025,4.0,8475000,Tidak,Sembuh,
+PSN0306,Dewi Pratama,RS-01,Laki-laki,78.0,54.2,174.0,17.9,106.0,63.0,-999.0,228.0,83.0,pneumonia,Swasta,Kelas 1,31 Mar 2025,05/04/2025,5.0,Rp 16.816.000,Tidak,Sembuh,
+PSN0151,Siti Setiawan,RS-01,Perempuan,51.0,76.8,159.5,30.2,140.0,83.0,228.1,163.0,81.0,Diabetes Melitus,BPJS,Kelas 1,2025-06-14,25/06/2025,11.0,Rp 7.491.000,Ya,Sembuh,Penisilin
+PSN0163,Rina Rahayu,RS-01,Laki-laki,76.0,,174.5,27.8,146.0,89.0,104.6,,56.0,Pneumonia,BPJS,Kelas 3,2025-01-05,07/01/2025,2.0,Rp 2.232.000,Tidak,Sembuh,
+PSN0350,Bambang Permata,RS-01,laki-laki,43.0,69.6,167.8,24.7,,99.0,97.3,166.0,87.0,Hipertensi,Umum,Kelas 2,2025-05-27,2025-06-01,5.0,11587000,Tidak,Sembuh,
+PSN0021,Ayu Nugroho,RS-01,Perempuan,66.0,64.7,154.3,27.2,126.0,74.0,225.8,620.0,81.0,diabetes melitus,BPJS,Kelas 3,2025-06-20,28 Jun 2025,8.0,4797000,Tidak,Meninggal,
+PSN0397,Budi Pratama,RS-01,Laki-laki,47.0,66.8,174.0,22.1,116.0,75.0,-999.0,170.0,77.0,Pneumonia,BPJS,Kelas 2,09 Nov 2025,2025-11-22,13.0,12913000,Tidak,Sembuh,
+PSN0373,Dedi Setiawan,RS-01,Perempuan,50.0,158 lb,157.0,29.0,109.0,69.0,225.8,213.0,81.0,Diabetes Melitus,Umum,Kelas 3,24 Sep 2025,,,Rp 882.000,Tidak,Sembuh,Penisilin
+PSN0311,Sri Rahayu,RS-01,Perempuan,57.0,57.3,156.0,23.5,129.0,78.0,223.0,174.0,75.0,Diabetes Melitus,Umum,Kelas 3,27/02/2025,09 Mar 2025,10.0,3844000,Tidak,Meninggal,
+PSN0368,Joko Wijaya,RS-01,Perempuan,56.0,47.7,144.8,22.7,120.0,75.0,134.0,260.0,77.0,Gagal Jantung,BPJS,Kelas 3,25/09/2025,2025-10-10,15.0,4449000,Ya,Dirujuk,
+PSN0160,Nur Permata,RS-01,Perempuan,65.0,71.1,159.3,28.0,159.0,100.0,121.5,189.0,50.0,,Swasta,Kelas 2,2025-08-09,2025-08-13,4.0,4464000,Tidak,Sembuh,
+PSN0248,Agus Santoso,RS-01,Perempuan,50.0,58100,150.1,25.8,115.0,62.0,210.5,207.0,,Diabetes Melitus,Umum,Kelas 2,2025-11-16,18 Nov 2025,,1184000,Tidak,,
+PSN0277,Budi Santoso,RS-01,Laki-laki,,79.3,168.8,27.8,130.0,70.0,103.3,238.0,72.0,Pneumonia ,Asuransi Swasta,Kelas 3,2025-11-13,2025-11-18,5.0,1805000,Tidak,Sembuh,
+PSN0290,Eko Permata,RS-01,Perempuan,68.0,50.6,160.2,19.7,153.0,86.0,110.8,241.0,90.0,Gagal Jantung,BPJS,Kelas 3,24 Jul 2025,29 Jul 2025,5.0,10406000,Tidak,Dirujuk,
+PSN0342,Joko Setiawan,RS-01,Perempuan,67.0,47.2,153.8,20.0,175.0,105.0,90.4,250.0,78.0,hipertensi,BPJS,vip,27/07/2025,2025-07-31,4.0,Rp 18.630.000,Ya,Sembuh,
+PSN0235,Bambang Susanti,RS-01,Laki-laki,72.0,73.1,174.9,23.9,144.0,80.0,114.7,,78.0,Gagal Jantung,BPJS,Kelas 3,2025-07-08,17/07/2025,9.0,12244000,Ya,Sembuh,
+PSN0275,Budi Susanti,RS-01,Perempuan,35.0,88.6,162.7,33.5,140.0,84.0,120.0,194.0,,Stroke,BPJS,Kelas 2,2025-11-18,08 Dec 2025,20.0,28813000,Tidak,Sembuh,
+PSN0201,Rizky Permata,RS-01,Laki-laki,29.0,87.2,169.9,30.2,125.0,66.0,,196.0,76.0,Diabetes Melitus,Swasta,kelas 2,14/03/2025,2025-03-21,7.0,8222000,Tidak,Sembuh,
+PSN0382,Rina Nugroho,RS-01,Laki-laki,66.0,56.7,175.6,18.4,117.0,71.0,209.7,199.0,82.0,Diabetes Mellitus,BPJS,Kelas 1,22/10/2025,26/10/2025,4.0,Rp 6.057.000,Ya,Dirujuk,Seafood
+PSN0175,Ahmad Handayani,RS-01,Laki-laki,59.0,56.8,171.1,19.4,118.0,70.0,115.6,267.0,84.0,Gagal Jantung,Swasta,Kelas 1,2025-01-24,2025-01-28,4.0,1966000,Ya,Sembuh,
+PSN0181,Ratna Saputra,RS-01,Laki-laki,51.0,55.0,161.4,21.1,103.0,62.0,210.1,172.0,63.0,Diabetes Melitus,Swasta,kelas 3,2025-03-01,2025-03-11,10.0,11881000,Tidak,Dirujuk,
+PSN0057,Yuni Nugroho,RS-01,Laki-laki,75.0,74.8,174.1,24.7,152.0,162.0,110.8,,78.0,hipertensi,Swasta,Kelas 1,2025-03-09,11 Mar 2025,2.0,2701000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0022,Siti Susanti,RS-01,Laki-laki,67.0,59.6,152.9,25.5,143.0,79.0,780.0,212.0,70.0,Diabetes Melitus,Swasta,Kelas 2,02/07/2025,2025-07-05,3.0,Rp 3.646.000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0015,Budi Nugroho,RS-01,Perempuan,37.0,51.1,154.3,21.5,101.0,68.0,-20.0,189.0,,Diabetes Melitus,BPJS,Kelas 2,02 Dec 2025,15/12/2025,13.0,Rp 21.598.000,Tidak,Sembuh,Penisilin
+PSN0040,Ahmad Pratama,RS-01,Perempuan,54.0,49.5,153.3,21.1,129.0,79.0,230.0,198.0,80.0,DM,BPJS,Kelas 3,03/08/2025,2025-08-10,7.0,Rp 4.552.000,Tidak,Sembuh,
+PSN0341,Sri Setiawan,RS-01,Laki-laki,48.0,173 lb,171.5,26.7,131.0,80.0,101.8,187.0,94.0,Gagal  Jantung,Umum,Kelas 2,2025-07-20,2025-08-10,21.0,24455000,Tidak,Sembuh,Seafood
+PSN0102,Ratna Wijaya,RS-01,Perempuan,51.0,44.0,154.5,18.4,,81.0,90.0,192.0,,pneumonia,Umum,Kelas 2,19 Nov 2025,27/11/2025,8.0,4137000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0343,Rizky Wijaya,RS-01,Laki-laki,47.0,48.6,167.5,17.3,114.0,62.0,102.0,188.0,75.0,Pneumonia,bpjs,Kelas 3,06 Aug 2025,21/08/2025,15.0,12538000,Tidak,Dirujuk,
+PSN0328,Eko Susanti,RS-01,Perempuan,60.0,56.4,154.9,23.5,141.0,87.0,233.7,,85.0,DM,Umum,Kelas 3,2025-08-16,22/08/2025,6.0,4666000,Tidak,Dirujuk,
+PSN0257,Ahmad Hidayat,RS-01,Laki-laki,47.0,63.8,161.7,24.4,154.0,92.0,111.5,237.0,53.0,stroke,BPJS,Kelas 3,2025-10-12,22/10/2025,10.0,6371000,Tidak,Meninggal,
+PSN0206,Nur Permata,RS-01,Perempuan,42.0,75.0,167.0,26.9,118.0,75.0,110.7,,70.0,DBD,,tidak ada,29 Oct 2025,06 Nov 2025,8.0,7440000,,Sembuh,
+PSN0180,Dedi Pratama,RS-01,Laki-laki,48.0,59.3,,20.8,107.0,72.0,206.4,138.0,68.0,DM,BPJS,vip,26/05/2025,2025-05-30,4.0,6993000,Tidak,Sembuh,
+PSN0250,Hendra Rahayu,RS-01,Pria,51.0,69.2,162.9,26.1,165.0,93.0,103.7,224.0,81.0,Hipertensi,Swasta,II,2025-11-25,28/11/2025,3.0,5431000,Tidak,N/A,Obat Antiinflamasi
+PSN0366,Lestari Hidayat,RS-01,Laki-laki,42.0,71.5,173.7,23.7,,80.0,105.4,172.0,87.0,PNEUMONIA,BPJS,Kelas 3,22/03/2025,03/04/2025,12.0,4786000,Tidak,Sembuh,
+PSN0032,Dedi Setiawan,RS-01,laki-laki,87.0,64.3,167.4,22.9,,87.0,104.3,,79.0,Pneumonia,BPJS,Kelas 1,31 Oct 2025,2025-11-09,16.0,14946000,Tidak,Sembuh,
+PSN0251,Fikri Handayani,RS-01,Perempuan,36.0,68900,161.0,26.6,162.0,88.0,101.5,206.0,85.0,Hipertensi,Umum,Kelas 3,02 May 2025,04/05/2025,2.0,1253000,Tidak,Sembuh,
+PSN0083,Siti Susanti,RS-01,Perempuan,29.0,56.7,151.9,24.6,124.0,81.0,107.3,216.0,104.0,Demam Berdarah,Umum,Kelas 3,14/06/2025,2025-06-24,10.0,11347000,Tidak,Meninggal,
+PSN0308,Lestari Hidayat,RS-01,Perempuan,62.0,76.3,159.4,30.0,114.0,67.0,112.4,214.0,76.0,Gagal Jantung,Swasta,Kelas 2,20 Jun 2025,2025-06-28,8.0,4958000,Tidak,Sembuh,
+PSN0278,Bambang Wijaya,RS-01,Perempuan,43.0,63.4,151.8,27.5,159.0,97.0,115.3,152.0,77.0,Hipertensi,BPJS,Kelas 3,19 Nov 2025,22/11/2025,3.0,3096000,Tidak,Dirujuk,Seafood
+PSN0205,Ratna Permata,RS-01,Perempuan,57.0,70.5,162.0,26.9,136.0,84.0,,194.0,80.0,CHF,Swasta,Kelas 1,17/05/2025,31 May 2025,,Rp 12.976.000,Tidak,Dirujuk,
+PSN0313,Mega Nugroho,RS-01,Laki-laki,76 th,87.7,174.4,28.8,170.0,99.0,105.0,,70.0,Hipertensi,BPJS,Kelas 1,13 Jun 2025,2025-06-16,3.0,Rp 3.042.000,Tidak,Sembuh,
+PSN0105,Budi Permata,RS-01,Perempuan,49.0,51.5,153.2,21.9,128.0,79.0,131.0,192.0,104.0,Pneumonia ,BPJS,VIP,2025-09-25,2025-10-01,6.0,8224000,Tidak,Sembuh,
+PSN0203,Ahmad Rahayu,RS-01,Perempuan,53.0,60.5,146.6,28.2,145.0,93.0,214.6,202.0,68.0,Diabetes Melitus,BPJS,III,2025-11-13,2025-11-17,,2750000,Tidak,Sembuh,
+PSN0396,Agus Saputra,RS-01,Laki-laki,76.0,48.3,177.6,15.3,130.0,80.0,89.8,,69.0,Pneumonia,-,Kelas 3,22 Oct 2025,02 Nov 2025,11.0,10953000,Tidak,Dirujuk,
+PSN0220,Yuni Rahayu,RS-01,Perempuan,72.0,42.7,1.65,15.7,154.0,87.0,100.2,,82.0,Hipertensi,BPJS,Kelas 2,19/08/2025,27/08/2025,8.0,12650000,Ya,Sembuh,
+PSN0239,Eko Hidayat,RS-01,P,27.0,44.7,153.3,,109.0,75.0,111.5,186.0,89.0,Gagal Jantung,BPJS,Kelas 2,2025-08-05,2025-08-16,11.0,6897000,Tidak,Sembuh,
+PSN0176,Lestari Santoso,RS-01,Laki-laki,57.0,68000,172.8,22.8,138.0,,108.2,204.0,92.0,pneumonia,BPJS,Kelas 2,14/09/2025,19/09/2025,5.0,5998000,Tidak,Sembuh,
+PSN0174,Nur Handayani,RS-01,Laki-laki,38.0,78.0,166.8,28.0,125.0,83.0,230.6,188.0,62.0,diabetes mellitus,BPJS,Kelas 3,2025-10-09,2025-10-15,,3192000,Tidak,Sembuh,Seafood
+PSN0297,Siti Wijaya,RS-01,N/A,23.0,79.7,166.0,28.9,127.0,74.0,224.1,136.0,89.0,diabetes mellitus,BPJS,Kelas 3,2025-08-26,2025-08-30,4.0,7229000,,Sembuh,
+PSN0147,Ahmad Wijaya,RS-01,Perempuan,40.0,48.6,147.9,22.2,128.0,87.0,105.6,189.0,73.0,Demam Berdarah,BPJS,kelas 3,06 Apr 2025,2025-04-15,16.0,Rp 10.282.000,Tidak,Sembuh,
+PSN0140,Nur Saputra,RS-01,Laki-laki,55.0,75.2,162.5,28.5,155.0,99.0,220.4,167.0,79.0,Diabetes Melitus,BPJS,Kls 3,2025-03-27,,12.0,16215000,Tidak,Sembuh,Debu
+PSN0145,Sri Handayani,RS-01,Perempuan,31.0,39.4,157.6,15.9,88.0,62.0,105.5,188.0,100.0,Demam Berdarah,Umum,Kelas 3,27/07/2025,01/08/2025,5.0,5874000,Tidak,Sembuh,
+PSN0361,Lestari Kurniawan,RS-01,L,34.0,42.3,161.8,16.2,114.0,74.0,92.6,174.0,74.0,-,swasta,Vip,31/03/2025,2025-04-08,8.0,26864000,Tidak,Sembuh,
+PSN0136,Ratna Kurniawan,RS-01,Perempuan,,57.8,152.2,,151.0,92.0,103.1,183.0,77.0,Hipertensi,BPJS,Kelas 2,25 Apr 2025,28 Apr 2025,3.0,2000000,Tidak,Dirujuk,Seafood
+PSN0135,Siti Rahayu,RS-01,Laki-laki,68.0,56.6,166.7,20.4,129.0,83.0,203.5,233.0,67.0,Diabetes Mellitus,BPJS,Kls 2,2025-10-07,09/10/2025,2.0,2823000,Tidak,Sembuh,Debu
+PSN0055,Ayu Susanti,RS-01,Wanita,57.0,49.5,154.6,20.7,136.0,86.0,232.3,226.0,59.0,tidak ada,BPJS,Kelas 2,12/05/2025,13/05/2025,1.0,1206000,Tidak,Sembuh,
+PSN0192,Mega Nugroho,RS-01,Perempuan,61.0,61.6,154.1,25.9,143.0,88.0,170.9,,74.0,Hipertensi,Umum,Kelas 3,2025-02-14,19/02/2025,5.0,8917000,Tidak,Meninggal,
+PSN0056,Ahmad Saputra,RS-01,Laki-laki,,79.2,174.0,26.2,132.0,89.0,-999.0,199.0,90.0,Gagal Jantung,Swasta,Kelas 2,01 Sep 2025,2025-09-16,15.0,13386000,Ya,Sembuh,
+PSN0395,Siti Kurniawan,RS-01,Perempuan,60.0,42.7,167.6,15.2,156.0,87.0,94.3,200.0,76.0,stroke,BPJS,Kelas 2,22/05/2025,28 May 2025,6.0,3763000,Tidak,Sembuh,
+PSN0166,Ahmad Santoso,RS-01,Pria,56.0,47.7,158.6,,159.0,,109.0,198.0,78.0,hipertensi,umum,Kelas 2,04 Sep 2025,10/09/2025,6.0,5561000,Tidak,Dirujuk,
+PSN0042,Joko Pratama,RS-01,Laki-laki,63.0,49.1,,18.4,131.0,74.0,96.2,193.0,84.0,Stroke,-,,05/05/2025,09/05/2025,4.0,3621000,N/A,Sembuh,
+PSN0017,Nur Susanti,RS-01,Perempuan,-3,43.7,157.9,17.5,112.0,63.0,203.5,143.0,100.0,Diabetes Melitus,BPJS,I,24 Aug 2025,29 Aug 2025,5.0,6007000,Tidak,Sembuh,
+PSN0189,Hendra Kurniawan,RS-01,Perempuan,60.0,48.6,151.1,21.3,132.0,,96.2,211.0,90.0,Gagal Jantung,BPJS,N/A,2025-01-04,09 Jan 2025,5.0,4721000,Tidak,Sembuh,
+PSN0300,Lestari Saputra,RS-01,Perempuan,73.0,,156.1,35.0,,83.0,223.7,,83.0,Diabetes Melitus,BPJS,Kelas 3,09 Aug 2025,2025-08-06,3.0,1734000,Tidak,Sembuh,
+PSN0215,Nur Santoso,RS-01,Laki-laki,62.0,89.9,180.9,27.5,152.0,97.0,108.0,170.0,82.0,Pneumonia ,BPJS,Kls 1,31/10/2025,08 Nov 2025,8.0,10787000,Tidak,Sembuh,
+PSN0187,Ratna Saputra,RS-01,Perempuan,36 th,50.6,147.7,23.2,109.0,119.0,103.4,161.0,65.0,Demam Berdarah,BPJS,Kelas 1,2025-09-16,2025-09-21,5.0,5198000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0316,Rina Rahayu,RS-01,Laki-laki,42.0,56.7,169.5,19.7,133.0,87.0,215.6,173.0,65.0,Diabetes Melitus,BPJS,Kelas 2,13 Jun 2025,18 Jun 2025,5.0,7789000,Tidak,Sembuh,
+PSN0357,Bambang Pratama,RS-01,Perempuan,48.0,61.5,146.3,28.7,156.0,,110.4,145.0,89.0,Hipertensi,BPJS,Kelas 2,2025-08-25,2025-08-27,2.0,2047000,Tidak,Sembuh,
+PSN0089,Ratna Nugroho,RS-01,Perempuan,49.0,50.0,1.56,20.7,127.0,84.0,146.6,160.0,94.0,Pneumonia,Swasta,Kelas 3,12 Feb 2025,2025-02-21,9.0,4697000,Tidak,Sembuh,
+PSN0240,Sri Susanti,RS-01,Laki-laki,71.0,56.4,168.4,19.9,120.0,,227.6,131.0,76.0,Diabetes Melitus,Umum,I,23 Nov 2025,2025-11-27,4.0,3653000,Tidak,Sembuh,
+PSN0051,Ratna Kurniawan,RS-01,Perempuan,52.0,78.1,160.9,30.2,130.0,88.0,229.3,,94.0,Diabetes Melitus,swasta,kelas 3,2025-04-30,03/05/2025,3.0,1247000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0366,Lestari Hidayat,RS-01,Laki-laki,42.0,71.5,173.7,23.7,,80.0,105.4,172.0,87.0,PNEUMONIA,BPJS,Kelas 3,22/03/2025,03/04/2025,12.0,4786000,Tidak,Sembuh,
+PSN0125,Ayu Pratama,RS-01,Perempuan,16.0,,149.0,30.4,116.0,64.0,114.3,164.0,74.0,Demam Berdarah,Umum,Kelas 2,2025-12-28,31/12/2025,3.0,Rp 2.319.000,,Sembuh,
+PSN0282,Ayu Rahayu,RS-01,Perempuan,74.0,50.2,153.7,21.2,142.0,87.0,,,92.0,Diabetes Melitus,BPJS,Kelas 3,2025-10-13,15 Oct 2025,2.0,Rp 2.688.000,Tidak,Sembuh,
+PSN0230,Agus Setiawan,RS-01,Perempuan,39.0,82.9,,30.1,133.0,91.0,212.8,148.0,89.0,Diabetes Melitus,swasta,Kelas 3,27/09/2025,29 Sep 2025,2.0,1557000,Tidak,Sembuh,
+PSN0027,Rina Rahayu,RS-01,Laki-laki,64.0,84.0,170.9,28.8,110.0,71.0,110.7,166.0,64.0,Demam Berdarah,Umum,Kelas 2,30 Nov 2025,2025-12-06,6.0,4616000,Tidak,Dirujuk,
+PSN0045,Joko Rahayu,RS-01,Perempuan,64.0,74.4,158.6,29.6,132.0,77.0,222.7,207.0,67.0,Diabetes Melitus,BPJS,Kelas 2,12/07/2025,21/07/2025,9.0,5724000,Tidak,Sembuh,
+PSN0050,Mega Nugroho,RS-01,Laki-laki,42.0,67.8,172.8,22.7,104.0,69.0,122.5,184.0,88.0,Gagal Jantung,Swasta,Kelas 3,06/07/2025,12 Jul 2025,6.0,8498000,Tidak,Sembuh,
+PSN0233,Rizky Setiawan,RS-01,Perempuan,61.0,56.5,142.2,,124.0,74.0,107.4,192.0,76.0,gagal jantung,N/A,Kelas 3,17/03/2025,2025-03-19,2.0,1633000,Tidak,Meninggal,Seafood
+PSN0084,Siti Wijaya,RS-01,Laki-laki,61.0,63.8,159.8,25.0,122.0,65.0,109.8,239.0,81.0,Gagal Jantung,Umum,Kelas 3,2025-04-16,25/04/2025,,5069000,Tidak,Meninggal,Debu
+PSN0012,Eko Handayani,RS-01,Perempuan,17.0,44.2,155.7,,900.0,89.0,94.6,189.0,90.0,Hipertensi,BPJS,Kelas 1,2025-02-06,2025-02-10,4.0,7080000,Tidak,Dirujuk,
+PSN0273,Fikri Handayani,RS-01,Laki-laki,28.0,69.7,168.3,24.6,94.0,62.0,98.4,105.0,90.0,Pneumonia ,Asuransi Swasta,Kelas 3,2025-04-07,23 Apr 2025,16.0,19692000,Tidak,Sembuh,
+PSN0374,Sri Susanti,RS-01,Laki-laki,38.0,66.3,177.3,21.1,119.0,65.0,220.2,198.0,76.0,Diabetes Melitus,BPJS,Kelas 2,2025-05-25,2025-05-29,4.0,3133000,Tidak,Sembuh,
+PSN0370,Ratna Rahayu,RS-01,Laki-laki,51.0,77.7,161.4,29.8,130.0,74.0,217.4,144.0,66.0,Diabetes Melitus,BPJS,vip,05/06/2025,,4.0,Rp 5.429.000,Tidak,Sembuh,
+PSN0244,Dewi Susanti,RS-01,Perempuan,27.0,64.2,162.0,24.5,125.0,76.0,109.7,146.0,87.0,PNEUMONIA,Swasta,,01/04/2025,08 Apr 2025,7.0,8011000,Tidak,Sembuh,
+PSN0013,Dewi Kurniawan,RS-01,Laki-laki,68.0,60.7,158.3,,146.0,89.0,116.5,,0.0,DBD,BPJS,Kelas 1,01/08/2025,04 Aug 2025,3.0,5216000,Tidak,Sembuh,
+PSN0196,Ahmad Susanti,RS-01,Laki-laki,31.0,61.0,158.1,24.4,133.0,77.0,102.1,159.0,76.0,Hipertensi,Swasta,Kelas 3,12/10/2025,17/10/2025,5.0,3962000,Tidak,Sembuh,
+PSN0269,Ayu Setiawan,RS-01,Laki-laki,63.0,193 lb,168.6,30.7,151.0,92.0,128.7,187.0,85.0,Pneumonia,-,VIP,10/02/2025,2025-02-15,11.0,30242000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0088,Lestari Kurniawan,RS-01,Laki-laki,71.0,64.6,164.0,24.0,139.0,86.0,237.9,,86.0,DM,Swasta,Kelas 3,28 Oct 2025,04/11/2025,7.0,5256000,Tidak,Sembuh,
+PSN0054,Eko Susanti,RS-01,Laki-laki,69.0,64.1,161.2,24.7,136.0,79.0,,192.0,83.0,diabetes mellitus,BPJS,VIP,25/11/2025,2025-12-02,7.0,18925000,Tidak,Meninggal,
+PSN0375,Dewi Handayani,RS-01,Perempuan,49.0,80.6,173.9,26.7,167.0,107.0,98.8,186.0,79.0,Hipertensi,BPJS,Kelas 3,16/04/2025,2025-04-19,3.0,1851000,Tidak,Sembuh,Penisilin
+PSN0062,Yuni Pratama,RS-01,Perempuan,69.0,63.8,154.2,26.8,130.0,,115.6,,66.0,demam berdarah,N/A,Kelas 3,24/05/2025,2025-05-28,4.0,4457000,Tidak,Sembuh,
+PSN0165,Dewi Hidayat,RS-01,Laki-laki,74.0,83.6,171.5,28.4,157.0,95.0,109.3,,95.0,STROKE,BPJS,Kls 3,2025-11-04,2025-11-09,5.0,3987000,-,Sembuh,
+PSN0267,Yuni Nugroho,RS-01,Perempuan,73.0,53.1,167.3,19.0,157.0,97.0,,174.0,73.0,Hipertensi,BPJS,Kelas 3,04/09/2025,2025-09-09,5.0,Rp 4.667.000,Tidak,Meninggal,
+PSN0185,Eko Pratama,RS-01,Laki-laki,35.0,58.8,160.8,22.7,,92.0,,180.0,73.0,Hipertensi,BPJS,Kelas 1,21 Nov 2025,2025-11-25,4.0,3778000,Tidak,Sembuh,
+PSN0388,Dewi Handayani,RS-01,Laki-laki,46.0,77.3,163.2,29.0,120.0,77.0,,208.0,100.0,Pneumonia,BPJS,Kelas 1,06/01/2025,2025-01-14,8.0,Rp 9.843.000,Tidak,Meninggal,
+PSN0159,Budi Rahayu,RS-01,Laki-laki,41.0,162 lb,166.9,26.5,144.0,83.0,117.1,141.0,,Hipertensi,BPJS Kesehatan,Kelas 3,2025-06-22,2025-06-24,2.0,Rp 3.609.000,Tidak,Sembuh,
+PSN0130,Agus Nugroho,RS-01,Laki-laki,,64.3,167.5,22.9,152.0,95.0,118.0,217.0,86.0,Hipertensi,,Kelas 3,25 Oct 2025,2025-11-02,8.0,Rp 4.612.000,Tidak,Sembuh,Penisilin
+PSN0103,Yuni Kurniawan,RS-01,Laki-laki,69.0,58.0,171.0,19.8,,78.0,,215.0,73.0,DM,Swasta,Kelas 2,06 Jan 2025,16 Jan 2025,10.0,5104000,Tidak,Sembuh,Penisilin
+PSN0312,Ayu Setiawan,RS-01,Perempuan,46.0,79.7,1.59,31.4,128.0,81.0,108.6,145.0,94.0,CHF,Asuransi Swasta,Kelas 1,2025-03-27,05/04/2025,9.0,26205000,Tidak,Sembuh,
+PSN0359,Agus Pratama,RS-01,Perempuan,40.0,42.4,156.4,17.3,140.0,88.0,99.5,147.0,83.0,Stroke,Swasta,Kelas 3,2025-10-15,27/10/2025,12.0,Rp 8.740.000,Tidak,Sembuh,
+PSN0029,Agus Susanti,RS-01,Laki-laki,48.0,64.6,159.8,25.3,128.0,82.0,211.6,185.0,64.0,Diabetes Melitus,BPJS,kelas 3,2025-05-07,2025-05-13,6.0,2992000,tidak ada,Sembuh,
+PSN0279,Dedi Pratama,RS-01,Laki-laki,33.0,60.3,163.7,22.5,,80.0,114.1,182.0,67.0,Pneumonia ,BPJS,,21/03/2025,30 Mar 2025,9.0,4358000,Tidak,Sembuh,
+PSN0107,Dewi Kurniawan,RS-01,Laki-laki,56.0,84.5,173.3,28.1,128.0,79.0,112.2,192.0,86.0,PNEUMONIA,BPJS,Kelas 2,03 Aug 2025,2025-08-21,18.0,Rp 33.520.000,Tidak,Sembuh,
+PSN0118,Dedi Nugroho,RS-01,Laki-laki,35.0,78.5,171.4,26.7,109.0,60.0,106.8,,84.0,Gagal Jantung,BPJS,Kelas 2,19/05/2025,30/05/2025,11.0,11314000,Ya,Sembuh,Obat Antiinflamasi
+PSN0296,Rizky Susanti,RS-01,Laki-laki,64.0,57.4,162.0,21.9,139.0,74.0,98.6,204.0,88.0,Gagal Jantung,BPJS,Kelas 3,2025-08-06,25/08/2025,19.0,13154000,N/A,Dirujuk,Debu
+PSN0286,Mega Setiawan,RS-01,Perempuan,73.0,66.1,175.3,21.5,151.0,98.0,115.8,247.0,77.0,Hypertensi,Umum,Kelas 2,2025-10-14,16/10/2025,,1314000,Tidak,Sembuh,
+PSN0314,Ratna Setiawan,RS-01,Perempuan,71.0,70.6,,33.3,,95.0,107.7,195.0,97.0,PNEUMONIA,Umum,Kelas 1,2025-02-01,08/02/2025,7.0,18665000,Tidak,Sembuh,
+PSN0137,Eko Saputra,RS-01,Perempuan,,56400,159.4,22.2,113.0,66.0,103.3,177.0,71.0,Demam Berdarah, BPJS,N/A,03 Aug 2025,07/08/2025,4.0,3434000,Tidak,Sembuh,
+PSN0083,Siti Susanti,RS-01,Perempuan,29.0,56.7,151.9,24.6,124.0,81.0,107.3,216.0,104.0,Demam Berdarah,Umum,Kelas 3,14/06/2025,2025-06-24,10.0,11347000,Tidak,Meninggal,
+PSN0053,Sri Susanti,RS-01,Perempuan,61.0,50.4,155.1,21.0,152.0,93.0,106.9,203.0,84.0,Stroke,swasta,Kelas 3,30/07/2025,05/08/2025,6.0,5687000,Tidak,Sembuh,
+PSN0131,Rina Handayani,RS-01,Perempuan,49.0,54.5,167.5,19.4,132.0,77.0,112.5,157.0,70.0,Hipertensi,BPJS,kelas 3,30 Jul 2025,05/08/2025,12.0,6163000,Tidak,Sembuh,
+PSN0144,Ahmad Hidayat,RS-01,Perempuan,31.0,56.4,160.9,21.8,,69.0,106.7,,88.0,Stroke,BPJS Kesehatan,Kelas 3,2025-06-12,15/06/2025,3.0,Rp 2.545.000,Tidak,Sembuh,Penisilin
+PSN0099,Mega Rahayu,RS-01,Laki-laki,47.0,,1.68,22.7,126.0,136.0,121.6,163.0,77.0,Pneumonia, BPJS,Kelas 2,2025-10-10,2025-10-20,10.0,5580000,Tidak,Sembuh,
+PSN0197,Joko Setiawan,RS-01,Laki-laki,76.0,71.9,175.3,23.4,123.0,72.0,98.6,247.0,74.0,Pneumonia,BPJS,Kelas 1,07 Mar 2025,2025-03-17,12.0,18067000,Tidak,Sembuh,
+PSN0287,Rizky Saputra,RS-01,Laki-laki,51.0,64.9,173.1,21.7,112.0,68.0,94.7,152.0,84.0,Pneumonia,BPJS,Kelas 2,2025-10-02,2025-10-09,7.0,6923000,Tidak,Sembuh,
+PSN0211,Agus Rahayu,RS-01,Perempuan,48.0,57.2,151.9,24.8,,,106.4,168.0,77.0,Hipertensi,Umum,Kelas 2,2025-03-08,2025-03-09,1.0,Rp 2.034.000,Tidak,Meninggal,Seafood
+PSN0217,Sri Pratama,RS-01,Perempuan,50.0,118 lb,153.4,22.7,125.0,76.0,103.4,171.0,71.0,Pneumonia,BPJS,Kelas 2,2025-02-25,2025-02-28,3.0,Rp 4.822.000,Tidak,Sembuh,
+PSN0310,Siti Santoso,RS-01,Perempuan,19.0,75.3,157.8,30.2,124.0,75.0,110.0,176.0,75.0,Hipertensi,BPJS,Kelas 1,2025-03-20,28/03/2025,8.0,15693000,Ya,Dirujuk,
+PSN0106,Agus Santoso,RS-01,Laki-laki,59.0,63.2,168.5,,164.0,91.0,,156.0,76.0,Hipertensi,BPJS,Kelas 3,2025-02-08,14 Feb 2025,6.0,Rp 9.092.000,Tidak,Dirujuk,Penisilin
+PSN0251,Fikri Handayani,RS-01,Perempuan,36.0,68900,161.0,26.6,162.0,88.0,101.5,206.0,85.0,Hipertensi,Umum,Kelas 3,02 May 2025,04/05/2025,2.0,1253000,Tidak,Sembuh,
+PSN0196,Ahmad Susanti,RS-01,Laki-laki,31.0,61.0,158.1,24.4,133.0,77.0,102.1,,76.0,Hipertensi,Swasta,Kelas 3,12/10/2025,17/10/2025,5.0,3962000,Tidak,Sembuh,
+PSN0204,Ayu Saputra,RS-01,Laki-laki,48.0,65.9,166.9,23.7,141.0,81.0,109.8,,74.0,Hipertensi,BPJS,Kelas 2,2025-03-12,2025-03-17,5.0,6869000,Tidak,Sembuh,
+PSN0104,Budi Hidayat,RS-01,L,87.0,211 lb,167.1,34.3,,114.0,119.8,252.0,67.0,Hipertensi,BPJS,VIP,16/08/2025,2025-08-21,5.0,14262000,Tidak,Sembuh,
+PSN0156,Budi Wijaya,RS-01,Perempuan,70.0,48.9,159.8,19.1,136.0,84.0,129.6,225.0,71.0,STROKE,BPJS,Kelas 3,29/06/2025,2025-07-07,8.0,5655000,Tidak,Sembuh,
+PSN0078,Budi Handayani,RS-01,Laki-laki,57.0,62.8,174.5,20.6,168.0,104.0,106.0,192.0,57.0,Stroke,BPJS,Kelas 1,11 Jun 2025,18/06/2025,7.0,8433000,Tidak,Sembuh,
+PSN0009,Ayu Kurniawan,RS-01,Perempuan,39.0,73.1,159.6,28.7,136.0,84.0,222.8,195.0,67.0,Diabetes Melitus,BPJS,Kelas 2,2025-05-25,2025-05-31,6.0,Rp 8.925.000,Tidak,Sembuh,
+PSN0003,Sri Susanti,RS-01,Perempuan,54.0,56.6,158.8,22.4,150.0,97.0,,182.0,73.0,stroke,BPJS,Kelas 3,03/02/2025,2025-02-17,14.0,7716000,tidak ada,Sembuh,Penisilin
+PSN0268,Hendra Santoso,RS-01,Perempuan,75.0,75.6,158.6,30.1,138.0,97.0,120.0,,76.0,PNEUMONIA,BPJS,Kelas 3,15 Feb 2025,,9.0,10244000,Tidak,Meninggal,Obat Antiinflamasi
+PSN0154,Dewi Rahayu,RS-01,Perempuan,40.0,38.4,148.1,17.5,130.0,67.0,89.0,191.0,86.0,Demam Berdarah,BPJS,Kelas 2,11/09/2025,2025-09-17,6.0,9103000,Tidak,Sembuh,
+PSN0191,Fikri Wijaya,RS-01,Laki-laki,46.0,57.1,159.6,22.4,109.0,61.0,104.3,219.0,98.0,Gagal Jantung,BPJS Kesehatan,Kelas 3,20 Aug 2025,02 Sep 2025,13.0,14655000,Tidak,Sembuh,
+PSN0026,Mega Hidayat,RS-01,Perempuan,,57.7,153.2,24.6,112.0,67.0,117.2,160.0,102.0,Gagal Jantung,BPJS,Kelas 2,2025-09-04,2025-09-09,5.0,4928000,Tidak,Sembuh,
+PSN0260,Joko Nugroho,RS-01,Perempuan,,61.5,154.4,25.8,110.0,75.0,235.9,150.0,59.0,Diabetes Melitus,Swasta,Kelas 2,2025-12-06,11/12/2025,5.0,2880000,Tidak,Sembuh,
+PSN0369,Agus Handayani,RS-01,Laki-laki,45.0,55.8,160.9,21.6,109.0,59.0,106.0,239.0,81.0,PNEUMONIA,Swasta,Kls 2,2025-09-13,2025-09-16,3.0,2674000,Tidak,Sembuh,
+PSN0051,Ratna Kurniawan,RS-01,Perempuan,52.0,78.1,160.9,30.2,127.0,88.0,229.3,227.0,94.0,Diabetes Melitus,swasta,kelas 3,2025-04-30,03/05/2025,3.0,1247000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0086,Ayu Kurniawan,RS-01,Perempuan,35.0,54.8,149.5,24.5,149.0,,103.9,201.0,75.0,Hipertensi,BPJS,VIP,2025-04-16,2025-04-19,3.0,13804000,Tidak,Dirujuk,
+PSN0344,Budi Kurniawan,RS-01,Perempuan,,54.0,153.4,22.9,131.0,,115.9,198.0,89.0,Gagal Jantung,Umum,Kelas 2,2025-05-31,2025-06-04,4.0,2270000,Ya,Dirujuk,Seafood
+PSN0023,Dewi Kurniawan,RS-01,Laki-laki,45.0,72.4,170.7,24.8,157.0,94.0,98.3,248.0,,Hipertensi,Umum,Kelas 3,2025-09-15,2025-09-18,3.0,2411000,Tidak,Sembuh,
+PSN0063,Eko Susanti,RS-01,Perempuan,65.0,52.2,156.8,21.2,144.0,89.0,104.8,222.0,72.0,Hipertensi,BPJS,VIP,13/11/2025,2025-11-16,3.0,15442000,Tidak,Sembuh,Seafood
+PSN0100,Yuni Kurniawan,RS-01,Perempuan,11.0,55.0,151.7,23.9,119.0,70.0,134.1,167.0,91.0,Pneumonia,BPJS,Kelas 2,27/12/2025,04 Jan 2026,8.0,5853000,Tidak,Meninggal,
+PSN0070,Eko Pratama,RS-01,Laki-laki,28.0,98.7,172.2,33.3,132.0,75.0,118.7,182.0,98.0,Gagal Jantung,BPJS,Kelas 2,01/03/2025,2025-03-05,4.0,7943000,Tidak,Sembuh,Seafood
+PSN0319,Fikri Wijaya,RS-01,Laki-laki,74.0,57.3,,21.3,,110.0,110.7,,74.0,Hipertensi ,BPJS,Kelas 3,2025-10-14,2025-10-20,6.0,5202000,Tidak,N/A,
+PSN0283,Joko Wijaya,RS-01,Laki-laki,31.0,80.5,,27.6,142.0,81.0,136.5,194.0,93.0,Gagal  Jantung, BPJS,Kelas 2,21/06/2025,2025-06-29,8.0,Rp 8.014.000,Tidak,Dirujuk,
+PSN0199,Ayu Pratama,RS-01,Laki-laki,76.0,63.6,174.2,21.0,141.0,,132.7,166.0,105.0,Pneumonia,umum,Kelas 2,19/12/2025,25/12/2025,6.0,6096000,Tidak,Sembuh,
+PSN0183,Hendra Setiawan,RS-01,Perempuan,76.0,52.3,148.3,23.8,128.0,75.0,231.3,231.0,69.0,Diabetes Melitus,Umum,Kelas 2,18/01/2025,,6.0,8598000,Tidak,Sembuh,
+PSN0241,Bambang Permata,RS-01,Laki-laki,61.0,68.9,172.6,23.1,137.0,84.0,107.9,221.0,80.0,Pneumonia ,Swasta,Kelas 1,10 Jun 2025,2025-06-11,1.0,1263000,-,Sembuh,
+PSN0096,Siti Kurniawan,RS-01,Laki-laki,25.0,,172.9,30.2,113.0,66.0,120.8,161.0,88.0,Demam Berdarah,BPJS,Kelas 2,10 Jul 2025,2025-07-14,,Rp 6.022.000,Tidak,Sembuh,
+PSN0152,Sri Pratama,RS-01,Perempuan,48 th,53.8,163.5,20.1,114.0,73.0,115.7,179.0,84.0,Pneumonia,BPJS,Kelas 2,2025-08-16,20 Aug 2025,4.0,4983000,Tidak,Sembuh,Seafood
+PSN0295,Budi Saputra,RS-01,Laki-laki,29.0,73.0,161.9,27.9,131.0,,134.8,178.0,78.0,hipertensi,Swasta,Kelas 1,09/06/2025,14 Jun 2025,5.0,3626000,Tidak,Sembuh,Debu
+PSN0030,Nur Pratama,RS-01,L,56.0,58.7,171.1,20.1,111.0,68.0,96.2,141.0,87.0,Demam Berdarah,BPJS,Kelas 1,2025-10-09,2025-10-11,2.0,Rp 2.367.000,Tidak,Sembuh,
+PSN0231,Bambang Santoso,RS-01,perempuan,41.0,41.8,152.7,17.9,119.0,67.0,225.6,202.0,74.0,Diabetes Melitus,Swasta,Kelas 3,2025-10-09,,7.0,2079000,Tidak,Sembuh,
+PSN0219,Ratna Kurniawan,RS-01,Laki-laki,68.0,89.7,165.2,32.9,138.0,88.0,117.9,,80.0,demam berdarah,BPJS,Kelas 1,2025-05-24,01/06/2025,8.0,14912000,Tidak,Sembuh,
+PSN0383,Mega Susanti,RS-01,Perempuan,56.0,66.3,155.8,27.3,130.0,84.0,119.2,234.0,82.0,Gagal  Jantung,bpjs,Kelas 3,31/12/2025,03/01/2026,3.0,3253000,Tidak,Meninggal,Penisilin
+PSN0200,Mega Hidayat,RS-01,Laki-laki,67.0,81.2,169.7,28.2,163.0,101.0,112.4,,83.0,Stroke,Swasta,Kelas 1,10 Jan 2025,2025-01-23,13.0,16975000,Tidak,Sembuh,
+PSN0289,Agus Nugroho,RS-01,P,50.0,57.1,159.1,22.6,113.0,74.0,209.1,168.0,,Diabetes Melitus,N/A,Kls 3,2025-10-10,2025-10-11,1.0,1174000,Tidak,Meninggal,
+PSN0390,Lestari Wijaya,RS-01,Laki-laki,65.0,57.2,164.7,21.1,114.0,81.0,204.0,199.0,82.0,Diabetes Melitus,Swasta,Kelas 1,28 Mar 2025,04/04/2025,7.0,8412000,Ya,Sembuh,
+PSN0117,Joko Wijaya,RS-01,N/A,52.0,52.0,152.8,22.3,127.0,81.0,101.4,169.0,80.0,Demam Berdarah,BPJS,Kelas 2,29/05/2025,2025-06-02,4.0,9229000,Tidak,Sembuh,Debu
+PSN0087,Dedi Susanti,RS-01,Laki-laki,57.0,68.3,,23.1,160.0,85.0,98.7,170.0,78.0,Hipertensi,tidak ada,VIP,31/12/2025,2026-01-07,7.0,Rp 13.597.000,Tidak,Meninggal,Obat Antiinflamasi
+PSN0360,Agus Nugroho,RS-01,P,55.0,65.7,,25.7,133.0,77.0,218.3,148.0,70.0,Diabetes Melitus,Swasta,kelas 2,03/08/2025,2025-08-08,5.0,5932000,Tidak,Sembuh,
+PSN0124,Yuni Pratama,RS-01,Perempuan,59.0,73.4,162.1,27.9,153.0,90.0,110.1,226.0,81.0,Hipertensi,Umum,Kelas 2,14/03/2025,18 Mar 2025,4.0,3240000,Ya,Sembuh,
+PSN0256,Ayu Saputra,RS-01,Perempuan,48.0,47.3,152.6,20.3,121.0,84.0,213.6,273.0,69.0,Diabetes Melitus,BPJS,Kelas 3,2025-11-15,19/11/2025,4.0,4376000,Tidak,Sembuh,
+PSN0004,Siti Hidayat,RS-01,tidak ada,47.0,55.9,157.1,22.6,137.0,,151.3,,83.0,stroke,BPJS,Kelas 2,06 Jan 2025,14 Feb 2025,39.0,72328000,-,Sembuh,
+PSN0113,Lestari Saputra,RS-01,Perempuan,84.0,73.5,157.3,29.7,177.0,106.0,127.9,244.0,,tidak ada,BPJS,II,2025-03-24,2025-03-28,4.0,2386000,Tidak,Dirujuk,Obat Antiinflamasi
+PSN0184,Budi Handayani,RS-01,Perempuan,71.0,54.4,159.9,21.3,124.0,74.0,102.4,,76.0,Pneumonia,Swasta,Kelas 3,14/07/2025,17 Jul 2025,3.0,Rp 2.126.000,Tidak,Sembuh,
+PSN0031,Mega Rahayu,RS-01,Laki-laki,52.0,43.1,167.2,15.4,124.0,74.0,221.3,179.0,69.0,Diabetes Melitus,Swasta,kelas 1,24/10/2025,2025-10-30,6.0,1250000000,Tidak,Meninggal,
+PSN0155,Nur Saputra,RS-01,Perempuan,53.0,59.4,150.9,26.1,125.0,79.0,103.8,196.0,79.0,Pneumonia,BPJS,Kelas 2,2025-09-25,2025-10-03,8.0,11391000,Tidak,Sembuh,Debu
+PSN0057,Yuni Nugroho,RS-01,Laki-laki,75.0,74.8,174.1,24.7,152.0,162.0,110.8,,78.0,hipertensi,Swasta,Kelas 1,2025-03-09,11 Mar 2025,2.0,2701000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0095,Lestari Kurniawan,RS-01,Perempuan,74.0,38.1,143.4,18.5,134.0,,99.8,236.0,,CHF,BPJS,Kelas 2,01 Aug 2025,07/08/2025,6.0,7341000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0219,Ratna Kurniawan,RS-01,Laki-laki,68.0,89.7,165.2,32.9,137.0,88.0,117.9,,80.0,demam berdarah,BPJS,Kelas 1,2025-05-24,01/06/2025,8.0,14912000,Tidak,Sembuh,
+PSN0381,Rina Santoso,RS-01,Laki-laki,42.0,70.5,164.0,26.2,138.0,82.0,113.5,190.0,86.0,Pneumonia ,BPJS,Kelas 3,2025-02-01,11/02/2025,10.0,8787000,Tidak,Sembuh,
+PSN0052,Ahmad Hidayat,RS-01,Laki-laki,42.0,51.8,174.9,16.9,113.0,64.0,111.2,173.0,70.0,Gagal Jantung,BPJS,VIP,29/01/2025,2025-02-08,,20457000,Ya,Sembuh,
+PSN0037,Yuni Nugroho,RS-01,Perempuan,39.0,108 lb,162.4,18.5,129.0,83.0,92.4,130.0,67.0,Hipertensi,BPJS,-,01/09/2025,2025-09-03,2.0,3025000,Tidak,Sembuh,
+PSN0098,Yuni Handayani,RS-01,-,52.0,51.6,,20.4,150.0,160.0,118.7,195.0,83.0,Stroke,BPJS,Kelas 2,29 Dec 2025,,8.0,9979000,Tidak,Sembuh,
+PSN0208,Joko Rahayu,RS-01,Laki-laki,69.0,65.5,167.3,23.4,127.0,78.0,237.9,193.0,72.0,diabetes melitus,BPJS Kesehatan,Kelas 3,2025-02-14,25 Feb 2025,11.0,Rp 10.919.000,Tidak,Meninggal,
+PSN0014,Bambang Permata,RS-01,Laki-laki,40.0,96.3,168.9,33.8,118.0,79.0,115.4,153.0,300.0,Pneumonia,Umum,-,22/06/2025,2025-07-12,20.0,Rp 22.415.000,Tidak,Sembuh,Penisilin
+PSN0164,Ratna Permata,RS-01,Laki-laki,34 th,77.4,163.4,29.0,117.0,70.0,104.0,182.0,101.0,Pneumonia, BPJS,Kelas 2,18/11/2025,2025-11-21,3.0,Rp 4.726.000,Tidak,Meninggal,
+PSN0059,Yuni Santoso,RS-01,Laki-laki,,206 lb,162.2,35.5,,85.0,,225.0,,Diabetes Melitus,BPJS,Kelas 2,18 Sep 2025,24 Sep 2025,11.0,10872000,Tidak,Meninggal,Penisilin
+PSN0337,Rizky Permata,RS-01,Laki-laki,67.0,155 lb,1.67,25.1,159.0,93.0,100.0,,88.0,Hipertensi,Swasta,Kelas 2,11 Sep 2025,15 Sep 2025,4.0,2433000,Tidak,Sembuh,
+PSN0394,Dedi Hidayat,RS-01,perempuan,27.0,66.8,,29.3,122.0,75.0,148.5,203.0,94.0,Gagal Jantung,BPJS,Kelas 1,2025-05-13,2025-05-28,20.0,33799000,Tidak,tidak ada,
+PSN0334,Lestari Saputra,RS-01,Perempuan,72.0,59.0,153.1,25.2,182.0,106.0,137.6,233.0,91.0,Stroke,BPJS,Kelas 3,2025-09-15,05 Oct 2025,22.0,Rp 18.293.000,Tidak,Sembuh,
+PSN0293,Agus Setiawan,RS-01,Laki-laki,22.0,87.3,168.7,30.7,150.0,96.0,119.2,180.0,87.0,Hipertensi,Swasta,Kelas 3,01/09/2025,2025-09-05,4.0,8496000,Tidak,-,
+PSN0261,Siti Handayani,RS-01,Laki-laki,33.0,76.1,163.0,28.6,130.0,82.0,114.1,,87.0,Stroke,BPJS Kesehatan,VIP,05 Nov 2025,13 Nov 2025,,32855000,Tidak,tidak ada,
+PSN0317,Siti Hidayat,RS-01,Perempuan,62.0,72.5,157.1,29.4,137.0,92.0,211.1,226.0,65.0,Diabetes Melitus,BPJS,Kelas 1,21 Mar 2025,26/03/2025,5.0,Rp 4.661.000,Tidak,Sembuh,
+PSN0010,Siti Pratama,RS-01,Laki-laki,56.0,76.8,159.2,30.3,135.0,89.0,107.8,190.0,69.0,Pneumonia,BPJS,Kelas 1,2025-06-02,2025-06-07,5.0,13270000,Tidak,Sembuh,
+PSN0234,Lestari Nugroho,RS-01,Laki-laki,48.0,79.6,183.3,23.7,131.0,79.0,228.1,238.0,83.0,diabetes mellitus,BPJS,Kelas 3,08/11/2025,11/11/2025,3.0,3382000,Tidak,Sembuh,
+PSN0129,Dewi Susanti,RS-01,Laki-laki,44.0,85.9,168.6,30.2,133.0,83.0,108.1,190.0,70.0,Stroke,BPJS,kelas 1,12/09/2025,28/09/2025,16.0,42430000,Tidak,Sembuh,
+PSN0320,Budi Wijaya,RS-01,Perempuan,36.0,,,,167.0,100.0,104.5,162.0,80.0,Hipertensi,Swasta,Kelas 2,09 Jul 2025,2025-07-12,3.0,2978000,Tidak,Sembuh,
+PSN0079,Dewi Santoso,RS-01,Laki-laki,63.0,59.3,1.56,24.4,151.0,90.0,120.3,211.0,,Stroke,BPJS,Kelas 2,19 Dec 2025,2025-12-23,4.0,3077000,Ya,Sembuh,
+PSN0046,Fikri Susanti,RS-01,Perempuan,49.0,51.9,,19.9,119.0,,97.8,205.0,67.0,Demam Berdarah,BPJS,III,2025-01-02,2025-01-04,,2206000,Tidak,Sembuh,
+PSN0116,Agus Santoso,RS-01,Perempuan,14.0,61.6,155.9,25.3,95.0,58.0,102.6,116.0,79.0,Pneumonia,bpjs,Kelas 3,2025-01-17,27 Jan 2025,10.0,8970000,Tidak,Dirujuk,Penisilin
+PSN0340,Dedi Handayani,RS-01,Perempuan,49.0,41.7,166.7,15.0,113.0,72.0,202.0,236.0,71.0,Diabetes Melitus,BPJS,Kelas 3,02/04/2025,06/04/2025,4.0,Rp 3.698.000,Tidak,Sembuh,
+PSN0158,Dewi Susanti,RS-01,Laki-laki,12.0,73.4,,27.2,99.0,66.0,109.0,198.0,101.0,Gagal Jantung,BPJS,Kelas 2,2025-01-11,,2.0,1541000,Tidak,Sembuh,
+PSN0025,Ratna Susanti,RS-01,Laki-laki,68.0,90.7,170.8,31.1,171.0,96.0,133.9,,69.0,Hipertensi,BPJS,VIP,2025-08-24,30/08/2025,6.0,8698000,Tidak,Meninggal,
+PSN0258,Siti Handayani,RS-01,Laki-laki,36.0,92.0,166.6,33.1,111.0,68.0,244.8,194.0,71.0,Diabetes Melitus,BPJS,Kelas 2,23/04/2025,,5.0,5314000,Tidak,Sembuh,
+PSN0367,Lestari Setiawan,RS-01,Laki-laki,42.0,52.6,165.1,19.3,122.0,74.0,105.0,196.0,92.0,Demam Berdarah,BPJS,VIP,2025-01-26,2025-01-29,3.0,17515000,Tidak,Sembuh,Seafood
+PSN0236,Fikri Hidayat,RS-01,Perempuan,50.0,50.4,146.0,,126.0,74.0,221.2,214.0,81.0,Diabetes Melitus,BPJS,Kelas 1,21/03/2025,2025-03-26,5.0,12688000,Tidak,Sembuh,
+PSN0127,Ratna Kurniawan,RS-01,Laki-laki,43.0,75100,163.7,28.0,152.0,94.0,103.4,153.0,68.0,Stroke, BPJS,Kelas 3,06/01/2025,2025-01-14,8.0,4418000,Tidak,Sembuh,Debu
+PSN0347,Yuni Nugroho,RS-01,Perempuan,94.0,,150.1,26.2,136.0,,125.8,225.0,92.0,Gagal Jantung,Swasta,Kelas 3,14/08/2025,2025-08-18,7.0,Rp 6.222.000,Tidak,Sembuh,Penisilin
+PSN0280,Dedi Hidayat,RS-01,Perempuan,40.0,57.3,,23.8,136.0,84.0,138.2,182.0,67.0,Hipertensi,BPJS,Kelas 2,26/11/2025,27 Nov 2025,1.0,2816000,Tidak,Sembuh,Debu
+PSN0346,Yuni Nugroho,RS-01,Perempuan,73.0,63.4,145.4,30.0,130.0,82.0,121.6,,72.0,pneumonia,Swasta,Kelas 2,2025-06-26,01 Jul 2025,8.0,7454000,N/A,Sembuh,
+PSN0034,Fikri Kurniawan,RS-01,Perempuan,58.0,53.1,153.0,22.7,129.0,79.0,107.7,177.0,88.0,N/A,BPJS,III,15 Jul 2025,25 Jul 2025,10.0,Rp 7.003.000,Tidak,Sembuh,
+PSN0330,Sri Permata,RS-01,L,20.0,65.6,163.3,24.6,117.0,78.0,114.2,176.0,,Pneumonia,Swasta,Kelas 3,14 Mar 2025,24/03/2025,15.0,4146000,Tidak,Sembuh,
+PSN0123,Eko Hidayat,RS-01,Laki-laki,51.0,68.5,169.7,,116.0,69.0,112.7,192.0,87.0,Pneumonia ,BPJS,Kelas 3,04 Jan 2025,07 Jan 2025,3.0,Rp 3.610.000,Tidak,Dirujuk,
+PSN0221,Budi Susanti,RS-01,Pria,49.0,83.0,171.5,28.2,123.0,71.0,214.2,210.0,76.0,Diabetes Melitus,Umum,Kelas 2,29/01/2025,2025-02-05,7.0,7018000,Tidak,Sembuh,
+PSN0064,Agus Wijaya,RS-01,Laki-laki,49 th,66.9,162.8,25.2,134.0,,109.6,206.0,82.0,Hipertensi,Swasta,Kelas 2,2025-03-28,,3.0,Rp 4.820.000,Tidak,Sembuh,Penisilin
+PSN0271,Siti Santoso,RS-01,Laki-laki,81.0,90.9,176.9,29.0,152.0,91.0,215.8,181.0,72.0,Diabetes Melitus,Swasta,Kelas 3,06/10/2025,15/10/2025,9.0,6447000,Tidak,Sembuh,
+PSN0067,Sri Santoso,RS-01,Laki-laki,36.0,76.7,165.6,28.0,136.0,86.0,127.9,182.0,,Stroke,Swasta,Kls 1,2025-10-09,2025-10-12,3.0,Rp 8.724.000,Tidak,Sembuh,
+PSN0195,Fikri Kurniawan,RS-01,Laki-laki,36.0,56.2,163.6,21.0,,69.0,99.5,172.0,65.0,Hipertensi,bpjs,Kelas 1,2025-07-19,2025-07-25,6.0,7287000,Tidak,Sembuh,
+PSN0178,Dewi Rahayu,RS-01,Perempuan,34.0,64.8,,27.3,134.0,83.0,138.6,,75.0,Demam Berdarah,,Kelas 1,04/08/2025,2025-08-08,4.0,2879000,Tidak,Meninggal,
+PSN0207,Fikri Santoso,RS-01,Perempuan,51.0,41.8,154.2,17.6,108.0,65.0,98.9,178.0,97.0,,-,Kelas 1,2025-06-04,2025-06-08,4.0,8241000,Tidak,Sembuh,Debu
+PSN0128,Dewi Permata,RS-01,Perempuan,61.0,77.3,161.5,29.6,157.0,92.0,110.6,231.0,72.0,Hipertensi,Umum,Kelas 2,20/10/2025,22/10/2025,2.0,1733000,Tidak,Sembuh,
+PSN0285,Budi Setiawan,RS-01,Laki-laki,17.0,65.4,162.5,24.8,94.0,60.0,214.3,,73.0,Diabetes Melitus,BPJS,Kelas 1,2025-06-22,26/06/2025,4.0,7688000,Tidak,Sembuh,
+PSN0283,Joko Wijaya,RS-01,Laki-laki,31.0,80.5,,27.6,138.0,81.0,136.5,,93.0,Gagal  Jantung, BPJS,Kelas 2,21/06/2025,2025-06-29,8.0,Rp 8.014.000,Tidak,Dirujuk,
+PSN0397,Budi Pratama,RS-01,Laki-laki,47.0,66.8,174.0,22.1,116.0,75.0,-999.0,170.0,77.0,Pneumonia,BPJS,Kelas 2,09 Nov 2025,2025-11-22,13.0,12913000,Tidak,Sembuh,
+PSN0008,Eko Rahayu,RS-01,Laki-laki,31.0,55.9,166.5,20.2,143.0,90.0,92.0,177.0,80.0,Stroke,Umum,kelas 1,2025-01-06,15 Jan 2025,9.0,19293000,Tidak,Dirujuk,
+PSN0001,Ayu Rahayu,RS-01,Perempuan,47.0,63.2,150.7,27.8,159.0,96.0,105.2,196.0,84.0,Hipertensi ,BPJS,Kelas 3,2025-12-30,02 Jan 2026,3.0,1527000,Tidak,Sembuh,
+PSN0227,Fikri Nugroho,RS-01,Pria,49.0,163 lb,172.4,24.9,108.0,79.0,112.4,199.0,91.0,gagal jantung,swasta,kelas 2,2025-03-28,2025-04-15,,28834000,Tidak,Sembuh,Seafood
+PSN0218,Sri Handayani,RS-01,Laki-laki,67.0,73.7,162.4,27.9,146.0,77.0,216.5,175.0,71.0,Diabetes Mellitus, BPJS,II,19 Dec 2025,23 Dec 2025,4.0,8475000,Tidak,Sembuh,
+PSN0266,Rizky Rahayu,RS-01,Laki-laki,55.0,61.1,171.3,20.8,163.0,94.0,92.1,220.0,77.0,Hipertensi,bpjs,Kelas 3,09 Aug 2025,2025-08-17,8.0,8005000,Tidak,Sembuh,
+PSN0122,Mega Setiawan,RS-01,Perempuan,49.0,64.0,162.6,24.2,137.0,86.0,98.4,167.0,63.0,demam berdarah,Swasta,Kelas 3,2025-07-15,22 Jul 2025,7.0,7184000,Tidak,Sembuh,
+PSN0109,Sri Kurniawan,RS-01,Laki-laki,50.0,58.9,165.0,21.6,126.0,75.0,202.4,134.0,84.0,Diabetes Melitus,BPJS,Kelas 3,2025-05-23,2025-06-02,,7970000,Tidak,Dirujuk,Penisilin
+PSN0171,Sri Rahayu,RS-01,Laki-laki,84.0,60.9,169.4,21.2,145.0,86.0,,,72.0,DBD,BPJS,Kelas 3,2025-12-14,19/12/2025,5.0,5157000,Tidak,Sembuh,
+PSN0194,Eko Nugroho,RS-01,Perempuan,78.0,56.2,,23.0,139.0,84.0,,190.0,69.0,Diabetes Melitus,BPJS,Kelas 2,21/11/2025,2025-11-27,6.0,4733000,Ya,Dirujuk,
+PSN0212,Dewi Nugroho,RS-01,Laki-laki,50.0,73.4,165.3,26.9,97.0,62.0,116.9,,88.0,PNEUMONIA,BPJS,N/A,2025-09-23,2025-09-29,13.0,4779000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0006,Rizky Permata,RS-01,Laki-laki,50.0,41.8,156.3,17.1,123.0,70.0,251.9,200.0,80.0,DM,BPJS,VIP,05 Dec 2025,07 Dec 2025,,6026000,Tidak,Sembuh,
+PSN0005,Bambang Hidayat,RS-01,Perempuan,66.0,36.0,151.5,15.7,,77.0,113.0,194.0,73.0,Stroke, BPJS,VIP,28 Jan 2025,21/02/2025,24.0,47249000,Tidak,Sembuh,
+PSN0376,Dedi Wijaya,RS-01,Perempuan,39.0,62.8,158.3,25.1,148.0,89.0,120.6,160.0,79.0,Stroke,BPJS Kesehatan,Kelas 3,2025-08-17,25/08/2025,8.0,5032000,Tidak,Sembuh,
+PSN0058,Dedi Hidayat,RS-01,Perempuan,54.0,61.4,161.6,23.5,126.0,82.0,222.8,169.0,80.0,Diabetes Melitus,BPJS,Kls 2,21 Dec 2025,24 Dec 2025,3.0,5682000,Tidak,Dirujuk,Debu
+PSN0387,Bambang Rahayu,RS-01,Laki-laki,74.0,54.9,158.7,21.8,159.0,,216.9,213.0,79.0,Diabetes Melitus,Umum,Kelas 2,2025-09-06,08/09/2025,2.0,2710000,Tidak,Sembuh,
+PSN0362,Hendra Rahayu,RS-01,Perempuan,50.0,41.3,1.4,21.0,170.0,90.0,130.1,225.0,75.0,Hipertensi,Umum,VIP,11/06/2025,2025-06-12,1.0,Rp 2.102.000,Tidak,Sembuh,
+PSN0060,Ahmad Permata,RS-01,Perempuan,,44.6,,,110.0,65.0,102.3,205.0,81.0,demam berdarah,Asuransi Swasta,Kelas 3,2025-02-26,09/03/2025,11.0,Rp 8.956.000,Tidak,Dirujuk,Obat Antiinflamasi
+PSN0222,Bambang Susanti,RS-01,-,58 th,55.3,167.3,19.8,126.0,76.0,211.7,208.0,73.0,Diabetes Mellitus,BPJS,VIP,2025-09-19,2025-09-23,4.0,14502000,Tidak,Sembuh,
+PSN0379,Rizky Rahayu,RS-01,Laki-laki,64.0,73100,170.7,25.1,147.0,95.0,105.0,201.0,97.0,Hipertensi,swasta,Kelas 3,2025-12-26,07 Jan 2026,12.0,11403000,Tidak,Sembuh,
+PSN0048,Bambang Rahayu,RS-01,Perempuan,54.0,60.1,156.2,24.6,129.0,78.0,100.3,219.0,82.0,Gagal Jantung,BPJS,Kelas 3,2025-12-08,10 Dec 2025,2.0,2600000,Tidak,Dirujuk,
+PSN0345,Hendra Saputra,RS-01,Perempuan,17.0,48.8,159.2,19.3,146.0,92.0,126.4,180.0,80.0,N/A,Swasta,Kelas 3,25/09/2025,01 Oct 2025,6.0,9882000,Ya,Sembuh,
+PSN0047,Ratna Nugroho,RS-01,Laki-laki,60.0,55.6,174.9,18.2,127.0,72.0,201.7,221.0,66.0,Diabetes Melitus, BPJS,Kelas 2,2025-12-13,16/12/2025,3.0,4899000,Tidak,Sembuh,
+PSN0272,Siti Handayani,RS-01,Laki-laki,58.0,68.4,160.0,26.7,169.0,93.0,100.5,179.0,72.0,Hipertensi,BPJS,Kelas 3,2025-10-13,16 Oct 2025,3.0,3198000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0121,Mega Kurniawan,RS-01,Perempuan,72.0,50.3,153.9,21.2,,86.0,114.1,,103.0,Gagal Jantung,Swasta,Kelas 1,16/02/2025,26 Feb 2025,10.0,12587000,Tidak,Dirujuk,
+PSN0247,Budi Susanti,RS-01,Laki-laki,68.0,56.0,162.9,21.1,,86.0,209.1,178.0,56.0,Diabetes Melitus,Umum,Kelas 3,2025-08-04,10 Aug 2025,6.0,10000000,Tidak,Meninggal,Penisilin
+PSN0353,Budi Santoso,RS-01,Laki-laki,38.0,48.8,180.3,,127.0,,95.9,156.0,83.0,Hipertensi,BPJS Kesehatan,Kelas 3,2025-02-15,2025-02-16,1.0,1724000,Tidak,Meninggal,
+PSN0167,Fikri Handayani,RS-01,Perempuan,63.0,88 lb,163.5,15.0,140.0,78.0,-999.0,138.0,83.0,Demam Berdarah,BPJS,Kelas 3,2025-05-02,2025-05-04,,1795000,Tidak,Sembuh,
+PSN0309,Dedi Susanti,RS-01,Laki-laki,86.0,67.1,159.3,26.4,120.0,73.0,117.9,234.0,86.0,Gagal Jantung,BPJS,Kelas 3,12/10/2025,2025-10-20,8.0,Rp 9.554.000,Tidak,Sembuh,
+PSN0210,Hendra Setiawan,RS-01,Laki-laki,39.0,,168.4,16.5,123.0,76.0,92.2,178.0,98.0,Gagal Jantung,Swasta,Kelas 2,2025-03-03,2025-03-06,3.0,Rp 3.747.000,Ya,Dirujuk,Obat Antiinflamasi
+PSN0291,Agus Susanti,RS-01,Laki-laki,58.0,57.3,176.0,18.5,157.0,102.0,108.9,,62.0,Hipertensi,,,04/01/2025,2025-01-14,10.0,17654000,Tidak,Sembuh,
+PSN0223,Budi Kurniawan,RS-01,Laki-laki,45.0,181 lb,169.1,28.8,154.0,91.0,103.4,181.0,80.0,Hipertensi,Swasta,Kelas 3,26/10/2025,,5.0,3139000,Tidak,Sembuh,Seafood
+PSN0214,Nur Hidayat,RS-01,Laki-laki,68.0,76.6,1.68,27.2,114.0,65.0,125.1,245.0,68.0,demam berdarah,BPJS,Kelas 3,2025-11-03,05 Nov 2025,2.0,1945000,Tidak,Meninggal,
+PSN0321,Sri Setiawan,RS-01,Laki-laki,40.0,80.1,,29.6,141.0,81.0,111.3,154.0,,Stroke,Umum,Kelas 3,03 Feb 2025,12 Feb 2025,9.0,4377000,Tidak,Sembuh,
+PSN0292,Ratna Hidayat,RS-01,,81 th,46.5,1.42,23.1,149.0,104.0,219.5,,60.0,Diabetes Melitus,Swasta,Kls 3,2025-12-16,2025-12-22,6.0,2427000,Ya,Dirujuk,
+PSN0118,Dedi Nugroho,RS-01,Laki-laki,35.0,78.5,171.4,26.7,107.0,60.0,106.8,,84.0,Gagal Jantung,BPJS,Kelas 2,19/05/2025,30/05/2025,11.0,11314000,Ya,Sembuh,Obat Antiinflamasi
+PSN0043,Siti Pratama,RS-01,Laki-laki,28.0,61.1,171.1,20.9,123.0,70.0,108.4,124.0,72.0,Demam Berdarah,BPJS,III,01/02/2025,,7.0,5748000,Tidak,Sembuh,
+PSN0325,Nur Nugroho,RS-01,Perempuan,75.0,61.8,149.8,27.5,156.0,98.0,212.3,206.0,77.0,Diabetes Melitus,BPJS,Kelas 1,2025-11-21,2025-11-30,9.0,Rp 10.248.000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0355,Ratna Santoso,RS-01,Wanita,56.0,65.0,148.0,29.7,146.0,96.0,,247.0,77.0,Hipertensi,BPJS,Kelas 2,05/06/2025,2025-06-12,7.0,Rp 4.669.000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0305,Ratna Rahayu,RS-01,Laki-laki,48.0,64.7,162.6,24.5,105.0,74.0,109.2,,83.0,Gagal  Jantung,BPJS,Kelas 3,2025-11-29,2025-12-09,10.0,Rp 8.624.000,Tidak,Sembuh,
+PSN0077,Dewi Wijaya,RS-01,Perempuan,55.0,51.0,163.5,19.1,131.0,87.0,,214.0,83.0,Pneumonia,BPJS,Kelas 3,2025-12-23,04/01/2026,12.0,5211000,Tidak,Dirujuk,
+PSN0326,Budi Saputra,RS-01,Laki-laki,19.0,72.3,1.69,25.2,111.0,70.0,111.7,207.0,94.0,CHF,BPJS,VIP,05 Sep 2025,09 Sep 2025,4.0,2739000,Tidak,Sembuh,
+PSN0372,Agus Wijaya,RS-01,Perempuan,8.0,62.0,165.1,22.7,111.0,71.0,233.7,139.0,67.0,Diabetes Mellitus,Umum,II,03/01/2025,06/01/2025,3.0,4796000,Tidak,Dirujuk,
+PSN0074,Fikri Handayani,RS-01,Perempuan,38.0,48.1,,,109.0,62.0,98.5,220.0,,gagal jantung,BPJS,Kelas 3,2025-02-03,10/02/2025,7.0,11001000,Tidak,Sembuh,
+PSN0299,Hendra Nugroho,RS-01,Laki-laki,54.0,76.9,165.8,28.0,130.0,85.0,107.2,217.0,68.0,N/A,Swasta,Kelas 3,2025-06-08,16 Jun 2025,8.0,6703000,Tidak,Sembuh,
+PSN0352,Yuni Saputra,RS-01,Laki-laki,41.0,68.1,160.9,26.3,115.0,73.0,216.0,208.0,60.0,DM,BPJS,Kelas 3,29/03/2025,06 Apr 2025,8.0,9101000,Tidak,Dirujuk,
+PSN0298,Dewi Wijaya,RS-01,Perempuan,93.0,130 lb,155.8,24.3,150.0,100.0,121.9,144.0,71.0,PNEUMONIA,BPJS,Kelas 2,13/08/2025,2025-08-20,7.0,7362000,Tidak,Sembuh,
+PSN0153,Ahmad Kurniawan,RS-01,Laki-laki,59.0,49.0,172.8,16.4,,87.0,199.4,168.0,78.0,Diabetes Melitus,Swasta,tidak ada,16/09/2025,19/09/2025,3.0,4270000,Tidak,Sembuh,
+PSN0033,Mega Permata,RS-01,Perempuan,57.0,66.4,162.0,25.3,130.0,75.0,-999.0,227.0,92.0,Gagal  Jantung,BPJS,Kelas 3,2025-05-24,2025-05-30,6.0,2811000,Tidak,Sembuh,Debu
+PSN0016,Bambang Permata,RS-01,Perempuan,250,66.4,156.2,27.2,124.0,71.0,108.3,226.0,90.0,Gagal Jantung,BPJS,Kelas 2,19/10/2025,27 Oct 2025,8.0,14756000,Tidak,Meninggal,
+PSN0108,Lestari Setiawan,RS-01,Perempuan,55.0,61.0,164.6,22.5,145.0,78.0,115.4,136.0,78.0,STROKE,BPJS,Kelas 1,2025-08-12,2025-08-29,17.0,Rp 18.359.000,Tidak,Sembuh,Penisilin
+PSN0108,Lestari Setiawan,RS-01,Perempuan,55.0,61.0,164.6,22.5,145.0,78.0,115.4,136.0,78.0,STROKE,BPJS,Kelas 1,2025-08-12,2025-08-29,17.0,Rp 18.359.000,Tidak,Sembuh,Penisilin
+PSN0148,Nur Hidayat,RS-01,Perempuan,40.0,56.0,146.1,26.2,148.0,94.0,105.6,128.0,92.0,Hipertensi,Umum,Kelas 3,2025-08-09,2025-08-12,3.0,3386000,Tidak,Meninggal,
+PSN0255,Hendra Kurniawan,RS-01,Laki-laki,59.0,,1.7,29.5,159.0,94.0,,,74.0,Hipertensi,BPJS,Kelas 1,2025-02-04,2025-02-14,10.0,25495000,Ya,Sembuh,
+PSN0036,Ratna Handayani,RS-01,Perempuan,49.0,55.2,161.3,21.2,150.0,94.0,111.1,181.0,78.0,Hipertensi,Umum,I,2025-07-24,2025-07-30,6.0,13040000,Tidak,Sembuh,Seafood
+PSN0226,Joko Pratama,RS-01,Perempuan,53.0,,151.8,23.0,124.0,,,177.0,84.0,Pneumonia,BPJS,Kelas 2,09 Dec 2025,2025-12-16,7.0,9718000,Tidak,Sembuh,Debu
+PSN0173,Ratna Nugroho,RS-01,Perempuan,,68.7,152.3,29.6,122.0,77.0,227.9,184.0,81.0,diabetes mellitus,BPJS,Kelas 3,27 Sep 2025,30 Sep 2025,3.0,1658000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0315,Bambang Setiawan,RS-01,Laki-laki,72.0,51.2,169.4,17.8,136.0,78.0,100.0,159.0,81.0,Pneumonia,BPJS,Kelas 3,01/07/2025,10 Jul 2025,9.0,7801000,Tidak,Sembuh,
+PSN0018,Ratna Hidayat,RS-01,Laki-laki,40.0,60.5,1.7,20.9,149.0,81.0,126.5,188.0,91.0,Hipertensi,bpjs,VIP,2025-04-19,2025-04-24,5.0,7155000,Tidak,Sembuh,
+PSN0157,Hendra Permata,RS-01,N/A,47.0,58.9,158.7,23.4,140.0,,212.6,202.0,69.0,Diabetes Melitus,Umum,Kelas 2,2025-04-15,19/04/2025,4.0,4684000,Tidak,Meninggal,Debu
+PSN0017,Nur Susanti,RS-01,Perempuan,-3,43.7,157.9,17.5,112.0,63.0,203.5,143.0,100.0,Diabetes Melitus,BPJS,I,24 Aug 2025,29 Aug 2025,5.0,6007000,Tidak,Sembuh,
+PSN0318,Yuni Nugroho,RS-01,Perempuan,70.0,70.1,160.9,,148.0,99.0,125.7,,84.0,Gagal Jantung,BPJS,Kelas 3,2025-08-06,13 Aug 2025,7.0,4557000,Tidak,Dirujuk,Penisilin
+PSN0332,Rizky Setiawan,RS-01,Laki-laki,58.0,66.2,169.5,23.0,,80.0,138.2,213.0,83.0,Gagal Jantung,BPJS,Kelas 3,26 Sep 2025,08 Oct 2025,12.0,9235000,Tidak,Sembuh,Debu
+PSN0398,Sri Permata,RS-01,Perempuan,76.0,61.6,150.4,27.2,133.0,81.0,,,84.0,DM,BPJS,VIP,10/05/2025,17/05/2025,7.0,13717000,Tidak,Sembuh,
+PSN0349,Lestari Wijaya,RS-01,Perempuan,51.0,55.6,157.7,22.4,122.0,78.0,207.8,177.0,68.0,Diabetes Melitus,BPJS,Kelas 3,2025-08-12,2025-08-18,6.0,5937000,Tidak,Sembuh,
+PSN0303,Ayu Santoso,RS-01,Laki-laki,63.0,95.4,167.9,33.8,139.0,90.0,136.1,188.0,74.0,Demam Berdarah,BPJS Kesehatan,Kelas 3,28 Nov 2025,30 Nov 2025,,3844000,Tidak,Dirujuk,
+PSN0209,Ayu Setiawan,RS-01,Laki-laki,75.0,56.5,170.6,19.4,138.0,80.0,-999.0,157.0,83.0,Diabetes Melitus,BPJS,kelas 2,2025-10-18,2025-10-26,8.0,15613000,Tidak,Sembuh,
+PSN0065,Rina Setiawan,RS-01,Laki-laki,52.0,79.7,167.3,28.5,144.0,86.0,106.1,220.0,,Stroke,BPJS,Kls 1,2025-10-17,,7.0,8234000,Tidak,Sembuh,
+PSN0011,Rina Handayani,RS-01,Laki-laki,54.0,49.1,165.2,18.0,,86.0,-999.0,170.0,90.0,Pneumonia,BPJS,Kelas 3,2025-03-01,14 Mar 2025,13.0,Rp 4.915.000,Tidak,Sembuh,
+PSN0358,Agus Susanti,RS-01,Laki-laki,52 th,65.5,159.8,25.7,128.0,78.0,,229.0,90.0,Gagal Jantung,BPJS,Kelas 1,12/08/2025,13 Aug 2025,1.0,2127000,Tidak,Sembuh,
+PSN0112,Bambang Hidayat,RS-01,Laki-laki,38.0,63.7,157.8,25.6,139.0,85.0,-999.0,185.0,68.0,Diabetes Melitus,Umum,Kelas 2,2025-05-26,30 May 2025,4.0,Rp 4.932.000,Tidak,Meninggal,
+PSN0384,Budi Santoso,RS-01,Perempuan,34.0,64.8,152.4,27.9,122.0,73.0,226.7,99.0,68.0,Diabetes Mellitus,BPJS,Kelas 2,19/12/2025,2025-12-22,3.0,3780000,Tidak,Sembuh,
+PSN0363,Agus Permata,RS-01,Perempuan,47.0,,158.8,24.0,158.0,94.0,99.5,211.0,82.0,Hypertensi, BPJS,Kelas 3,2025-07-20,25 Jul 2025,5.0,5019000,Tidak,Sembuh,
+PSN0323,Dewi Hidayat,RS-01,Perempuan,76.0,68.7,160.7,26.6,140.0,85.0,123.1,197.0,79.0,Pneumonia,BPJS,II,30/11/2025,2025-12-03,3.0,2358000,Tidak,Sembuh,Debu
+PSN0094,Hendra Permata,RS-01,Perempuan,47.0,52700,1.51,23.0,109.0,65.0,123.2,,70.0,DBD,Swasta,Kelas 3,28/08/2025,30 Aug 2025,2.0,1264000,tidak ada,Sembuh,Debu
+PSN0392,Ahmad Hidayat,RS-01,Laki-laki,34.0,52.2,162.2,19.8,129.0,88.0,92.9,196.0,64.0,Hipertensi,BPJS,Kelas 2,27/10/2025,,15.0,9029000,Tidak,Sembuh,
+PSN0294,Hendra Susanti,RS-01,Laki-laki,37.0,90.4,171.2,30.8,141.0,79.0,108.7,162.0,106.0,Hypertensi,BPJS,Kelas 3,16 Dec 2025,18/12/2025,2.0,3527000,Tidak,Sembuh,
+PSN0262,Ayu Nugroho,RS-01,Perempuan,41.0,72.8,,27.6,,,263.6,162.0,87.0,Diabetes Melitus,bpjs,Kelas 3,18/02/2025,2025-02-22,4.0,4891000,Tidak,Sembuh,
+PSN0101,Eko Permata,RS-01,tidak ada,58.0,68.9,173.6,22.9,155.0,94.0,,137.0,57.0,Hipertensi,BPJS,III,27 Feb 2025,,4.0,5566000,Tidak,Sembuh,
+PSN0168,Lestari Santoso,RS-01,Laki-laki,3.0,74.7,168.3,26.4,90.0,56.0,112.6,162.0,72.0,Demam Berdarah,BPJS,Kelas 1,17/07/2025,25/07/2025,8.0,14118000,Tidak,Sembuh,
+PSN0066,Joko Handayani,RS-01,Laki-laki,,77.6,174.1,25.6,123.0,72.0,111.4,211.0,93.0,Pneumonia,BPJS,Kelas 2,12 May 2025,2025-05-17,5.0,4628000,Ya,Sembuh,
+PSN0242,Ahmad Handayani,RS-01,Perempuan,54.0,59.8,156.6,,142.0,89.0,122.7,191.0,80.0,Demam Berdarah,BPJS,Kelas 2,23/01/2025,27/01/2025,4.0,3252000,Tidak,Sembuh,
+PSN0007,Eko Setiawan,RS-01,Perempuan,,56.8,152.8,24.3,145.0,89.0,124.9,131.0,71.0,Stroke,N/A,Kelas 1,10/03/2025,13 Mar 2025,3.0,7947000,Tidak,Sembuh,
+PSN0150,Yuni Pratama,RS-01,Laki-laki,53.0,194 lb,164.2,32.7,155.0,93.0,139.0,183.0,62.0,Hipertensi,BPJS,Kelas 3,30/10/2025,2025-11-02,3.0,3579000,Tidak,Dirujuk,
+PSN0380,Rizky Kurniawan,RS-01,Laki-laki,65.0,54.9,155.8,22.6,140.0,88.0,226.3,193.0,81.0,Diabetes Melitus,Swasta,VIP,11/11/2025,14 Nov 2025,3.0,13646000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0391,Lestari Permata,RS-01,Perempuan,16.0,64.8,165.8,23.6,115.0,64.0,,149.0,90.0,Diabetes Melitus,BPJS,Kelas 2,19 Jun 2025,22/06/2025,3.0,3462000,Tidak,Sembuh,
+PSN0149,Bambang Wijaya,RS-01,Perempuan,86.0,47.8,156.6,19.5,151.0,87.0,108.1,222.0,77.0,demam berdarah,BPJS,Kelas 3,25/11/2025,2025-12-05,10.0,16631000,Tidak,Sembuh,
+PSN0378,Hendra Hidayat,RS-01,Laki-laki,51.0,48.6,169.0,17.0,140.0,88.0,90.6,185.0,87.0,hipertensi,BPJS,Kelas 3,23 Dec 2025,27/12/2025,4.0,5683000,Tidak,Sembuh,
+PSN0351,Yuni Wijaya,RS-01,Perempuan,64.0,63.9,167.9,22.7,133.0,90.0,104.9,207.0,69.0,Stroke,BPJS,Kelas 3,2025-01-04,17/01/2025,13.0,7735000,Tidak,-,
+PSN0253,Agus Wijaya,RS-01,Laki-laki,20.0,66100,171.3,22.5,127.0,83.0,114.6,94.0,90.0,Hipertensi,Swasta,Kls 2,2025-08-31,2025-09-04,4.0,3846000,Tidak,Sembuh,
+PSN0322,Eko Permata,RS-01,Perempuan,56.0,76.3,,30.5,120.0,69.0,120.9,190.0,99.0,Gagal  Jantung,Swasta,Kelas 3,23/02/2025,2025-03-01,6.0,4161000,Tidak,Sembuh,
+PSN0186,Rizky Kurniawan,RS-01,Perempuan,51.0,64.6,153.4,27.5,,,219.1,133.0,72.0,Diabetes Melitus,BPJS,Kls 2,02/04/2025,2025-04-09,7.0,5156000,Tidak,Sembuh,
+PSN0142,Fikri Hidayat,RS-01,Laki-laki,40.0,81.1,174.9,26.5,130.0,78.0,,178.0,73.0,Diabetes Melitus,BPJS Kesehatan,Kelas 1,2025-12-13,21/12/2025,14.0,21376000,Tidak,Sembuh,
+PSN0133,Fikri Saputra,RS-01,Laki-laki,90.0,102.2,180.2,31.5,155.0,95.0,,222.0,89.0,Diabetes Melitus,Asuransi Swasta,Kelas 3,23 May 2025,08/06/2025,16.0,Rp 11.676.000,Tidak,Meninggal,Debu
+PSN0119,Joko Rahayu,RS-01,Perempuan,62.0,55.9,146.1,26.2,141.0,94.0,117.6,155.0,69.0,Stroke,BPJS,Kelas 1,18 Jul 2025,10 Jul 2025,8.0,17473000,Tidak,Sembuh,
+PSN0245,Fikri Wijaya,RS-01,Perempuan,49.0,86.3,167.0,30.9,160.0,96.0,106.9,180.0,74.0,Hipertensi,Swasta,Kelas 3,16/05/2025,19/05/2025,3.0,5918000,Tidak,Sembuh,
+PSN0288,Dewi Handayani,RS-01,Laki-laki,55.0,96.3,172.4,32.4,165.0,103.0,126.6,205.0,79.0,Stroke,Swasta,Kelas 1,2025-02-14,2025-03-02,16.0,45811000,Tidak,Sembuh,
+PSN0120,Dedi Nugroho,RS-01,Laki-laki,68.0,,160.0,25.9,152.0,81.0,110.9,165.0,79.0,Stroke,BPJS,N/A,2025-01-13,15/01/2025,2.0,2531000,Tidak,Sembuh,
+PSN0399,Lestari Kurniawan,RS-01,Laki-laki,75.0,73.2,161.5,28.1,150.0,88.0,223.2,,,Diabetes Mellitus,BPJS,Kelas 1,08 Feb 2025,2025-02-13,5.0,4712000,Ya,Sembuh,
+PSN0039,Joko Setiawan,RS-01,Laki-laki,45.0,67.8,156.3,27.8,128.0,79.0,124.7,218.0,84.0,Pneumonia,Swasta,Kelas 2,2025-07-08,2025-07-09,1.0,1185000,Tidak,Sembuh,
+PSN0356,Hendra Kurniawan,RS-01,,47.0,,177.3,32.7,137.0,83.0,114.2,201.0,66.0,DBD,BPJS,VIP,2025-09-27,,9.0,14438000,Tidak,Sembuh,
+PSN0307,Ahmad Nugroho,RS-01,Perempuan,74.0,72.4,158.9,28.7,137.0,84.0,,213.0,71.0,Demam Berdarah,BPJS,Kelas 3,29 Apr 2025,02/05/2025,3.0,3122000,Tidak,Sembuh,
+PSN0085,Sri Santoso,RS-01,Perempuan,41.0,45.6,163.0,17.2,134.0,82.0,-999.0,159.0,86.0,Hipertensi,Umum,Kelas 1,2025-04-29,02 May 2025,3.0,Rp 5.859.000,Tidak,Sembuh,
+PSN0225,Ayu Susanti,RS-01,Laki-laki,69.0,79.8,185.6,23.2,128.0,85.0,109.9,,77.0,Hipertensi,swasta,Kelas 3,2025-05-21,23/05/2025,,1305000,Tidak,Sembuh,
+PSN0020,Budi Rahayu,RS-01,Perempuan,31.0,55.2,152.2,23.8,149.0,87.0,117.1,,76.0,Hipertensi, BPJS,Kelas 2,2025-04-08,13/04/2025,5.0,13291000,Ya,Dirujuk,Obat Antiinflamasi
+PSN0073,Rina Permata,RS-01,Perempuan,27.0,47.8,148.4,21.7,104.0,71.0,221.2,166.0,69.0,Diabetes Melitus,BPJS,Kelas 3,2025-06-01,2025-06-06,5.0,11918000,Tidak,Sembuh,
+PSN0076,Mega Kurniawan,RS-01,Laki-laki,3.0,73.4,171.1,25.1,109.0,63.0,104.2,185.0,93.0,PNEUMONIA,BPJS,Kls 3,05/05/2025,15 May 2025,,8052000,Tidak,Meninggal,Obat Antiinflamasi
+PSN0265,Dewi Kurniawan,RS-01,Perempuan,49.0,95.4,172.9,31.9,132.0,80.0,111.2,177.0,,Hipertensi,bpjs,Kelas 1,2025-04-13,15/04/2025,2.0,2463000,Tidak,Sembuh,
+PSN0041,Joko Saputra,RS-01,laki-laki,73.0,56.1,150.3,24.8,148.0,84.0,110.3,206.0,71.0,Stroke,Swasta,Kelas 3,01 May 2025,12/05/2025,11.0,8325000,Tidak,Sembuh,
+PSN0354,Nur Hidayat,RS-01,Perempuan,16.0,70.6,168.4,24.9,119.0,66.0,100.8,159.0,66.0,Hipertensi,Umum,Kelas 3,11/06/2025,2025-06-12,1.0,2163000,Tidak,Sembuh,
+PSN0111,Ahmad Kurniawan,RS-01,Laki-laki,71.0,157 lb,162.0,27.1,157.0,91.0,104.2,,92.0,Hipertensi,BPJS,Kelas 1,2025-02-25,28/02/2025,3.0,2191000,Tidak,Sembuh,
+PSN0304,Eko Nugroho,RS-01,Laki-laki,40.0,62.0,158.9,24.6,120.0,77.0,96.9,215.0,94.0,Demam Berdarah,BPJS,Kelas 3,16/04/2025,2025-04-19,3.0,1898000,Tidak,Sembuh,
+PSN0377,Hendra Setiawan,RS-01,L,63 th,67.9,170.3,,185.0,118.0,105.7,208.0,73.0,HT,BPJS,Kelas 2,04 Jan 2025,2025-01-07,3.0,3976000,Tidak,Sembuh,
+PSN0049,Rina Saputra,RS-01,Perempuan,28.0,56.8,149.7,25.3,114.0,,99.8,186.0,91.0,Demam Berdarah,BPJS,Kelas 2,04/04/2025,2025-04-07,3.0,2158000,Tidak,Sembuh,
+PSN0019,Rina Pratama,RS-01,Laki-laki,46.0,79.3,,27.1,112.0,70.0,215.2,,71.0,DM,BPJS,Kelas 1,29/07/2025,01 Aug 2025,,1446000,Tidak,,
+PSN0044,Budi Saputra,RS-01,Laki-laki,63.0,66.4,164.2,24.6,144.0,92.0,,186.0,70.0,Hipertensi,tidak ada,Kelas 3,2025-05-02,,4.0,2791000,Tidak,Meninggal,Obat Antiinflamasi
+PSN0274,Yuni Saputra,RS-01,Perempuan,69.0,64.4,,,166.0,94.0,128.6,,81.0,hipertensi,Swasta,Kelas 3,2025-02-11,,6.0,2910000,Tidak,Sembuh,
+PSN0091,Agus Handayani,RS-01,Perempuan,23.0,50.8,149.2,22.8,136.0,82.0,99.3,127.0,66.0,Stroke,BPJS,Kelas 1,15 Aug 2025,2025-08-20,5.0,8761000,Tidak,Sembuh,
+PSN0276,Lestari Kurniawan,RS-01,Laki-laki,84.0,68.5,155.0,28.5,,92.0,,228.0,73.0,DBD,BPJS,Kelas 2,19 Sep 2025,2025-09-21,2.0,2657000,Tidak,Sembuh,Penisilin
+PSN0335,Fikri Saputra,RS-01,Perempuan,23.0,65.5,,23.4,104.0,66.0,105.3,171.0,101.0,Pneumonia ,BPJS,Kelas 3,29/09/2025,04/10/2025,5.0,3445000,Tidak,Sembuh,
+PSN0161,Ayu Nugroho,RS-01,L,71.0,52.3,,,139.0,86.0,95.8,146.0,94.0,Pneumonia,BPJS,Kls 3,2025-05-08,13/05/2025,5.0,3987000,Tidak,Sembuh,
+PSN0115,Ratna Pratama,RS-01,Perempuan,57.0,160 lb,154.4,30.5,147.0,157.0,131.4,208.0,,Hypertensi,BPJS,Kelas 3,2025-11-29,05 Dec 2025,6.0,8790000,Ya,Sembuh,Seafood
+PSN0329,Rina Setiawan,RS-01,Perempuan,57.0,57.3,149.8,25.5,131.0,84.0,221.2,146.0,66.0,Diabetes Melitus,BPJS Kesehatan,Kelas 1,16/05/2025,18 May 2025,2.0,5084000,Tidak,Sembuh,Seafood
+PSN0069,Eko Saputra,RS-01,Laki-laki,43.0,71.8,174.9,23.5,,89.0,,107.0,46.0,Hipertensi,BPJS,Kelas 3,17/01/2025,2025-01-22,5.0,2707000,Tidak,Sembuh,Debu
+PSN0216,Siti Pratama,RS-01,Laki-laki,61.0,63.6,158.4,25.3,133.0,81.0,114.7,178.0,91.0,pneumonia,bpjs,Kelas 3,08/11/2025,16/11/2025,8.0,13064000,Tidak,Dirujuk,Debu
+PSN0132,Dedi Saputra,RS-01,Laki-laki,67.0,64.5,159.4,25.4,128.0,83.0,98.6,163.0,87.0,Pneumonia,BPJS,Kelas 3,24/10/2025,27 Oct 2025,3.0,5132000,Tidak,Dirujuk,Debu
+PSN0002,Ahmad Kurniawan,RS-01,Laki-laki,51.0,64.6,169.3,22.5,170.0,180.0,112.3,176.0,79.0,Hipertensi,Swasta,Kelas 3,11/10/2025,15 Oct 2025,4.0,Rp 2.365.000,Tidak,Sembuh,
+PSN0188,Nur Santoso,RS-01,Perempuan,84.0,67.9,167.4,24.2,183.0,,,208.0,79.0,HT,BPJS,kelas 2,2025-05-04,2025-05-08,4.0,Rp 3.880.000,Tidak,Sembuh,Penisilin
+PSN0228,Budi Handayani,RS-01,Laki-laki,62.0,71.0,166.8,25.5,159.0,91.0,207.4,226.0,70.0,Diabetes Melitus,Swasta,Kelas 1,03/01/2025,2025-01-08,5.0,10301000,Tidak,Sembuh,
+PSN0179,Agus Permata,RS-01,Laki-laki,78.0,85.8,174.6,28.1,,76.0,114.9,256.0,84.0,gagal jantung,BPJS,Kls 3,2025-07-01,2025-07-15,14.0,Rp 9.959.000,Tidak,Dirujuk,
+PSN0328,Eko Susanti,RS-01,Perempuan,60.0,56.4,154.9,23.5,145.0,87.0,233.7,195.0,85.0,DM,Umum,Kelas 3,2025-08-16,22/08/2025,6.0,4666000,Tidak,Dirujuk,
+PSN0182,Rina Saputra,RS-01,Perempuan,43.0,65.8,158.9,26.1,129.0,82.0,110.9,161.0,74.0,Pneumonia,Umum,tidak ada,2025-10-06,2025-10-13,7.0,Rp 18.899.000,Tidak,Sembuh,
+PSN0134,Ratna Setiawan,RS-01,L,78.0,47.7,158.4,19.0,135.0,82.0,97.2,209.0,74.0,Pneumonia,BPJS,Kelas 2,11 Aug 2025,18 Aug 2025,7.0,5977000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0224,Dedi Nugroho,RS-01,Laki-laki,47.0,92.5,177.2,29.5,129.0,75.0,109.7,,91.0,Gagal Jantung,BPJS Kesehatan,VIP,2025-12-04,07 Dec 2025,3.0,6705000,Ya,Sembuh,Seafood
+PSN0249,Rizky Wijaya,RS-01,Laki-laki,50.0,79.4,163.7,29.6,160.0,93.0,129.8,201.0,69.0,Hypertensi,Umum,VIP,2025-06-11,2025-06-17,6.0,19499000,Tidak,Sembuh,
+PSN0284,Eko Saputra,RS-01,Perempuan,67.0,74.0,156.1,30.4,150.0,98.0,104.3,172.0,78.0,HT,BPJS Kesehatan,Kls 2,06/09/2025,09 Sep 2025,3.0,Rp 2.536.000,Tidak,Sembuh,
+PSN0169,Lestari Wijaya,RS-01,Perempuan,67.0,84.9,163.1,31.9,151.0,89.0,105.1,267.0,84.0,-,BPJS,Kelas 3,15 Jun 2025,2025-06-22,7.0,5710000,Tidak,Sembuh,
+PSN0336,Rizky Hidayat,RS-01,Perempuan,43.0,36.7,151.3,16.0,131.0,81.0,124.9,,66.0,hipertensi,Swasta,Kelas 1,2025-06-08,12 Jun 2025,4.0,6801000,Tidak,Sembuh,
+PSN0264,Joko Permata,RS-01,Perempuan,56.0,58.5,155.9,24.1,128.0,83.0,205.5,160.0,66.0,Diabetes Melitus,bpjs,Kelas 2,14/04/2025,2025-04-24,10.0,19326000,Tidak,Sembuh,Penisilin
+PSN0143,Budi Wijaya,RS-01,laki-laki,60.0,49.2,159.3,19.4,114.0,71.0,96.6,229.0,89.0,Gagal  Jantung,Swasta,Kelas 3,2025-12-03,2025-12-11,8.0,5554000,Tidak,Sembuh,
+PSN0246,Sri Santoso,RS-01,Perempuan,22.0,175 lb,154.2,33.4,124.0,82.0,127.6,128.0,100.0,Pneumonia ,swasta,Kelas 2,22/06/2025,2025-06-25,3.0,2781000,Tidak,Meninggal,
+PSN0301,Dedi Saputra,RS-01,Laki-laki,,62.9,161.2,24.2,120.0,68.0,102.3,116.0,90.0,Demam Berdarah, BPJS,II,2025-04-12,20/04/2025,8.0,9013000,Tidak,Sembuh,
+PSN0028,Ratna Kurniawan,RS-01,Perempuan,24.0,51.5,147.4,23.7,105.0,66.0,,196.0,83.0,Diabetes Mellitus,BPJS,Kelas 3,03 Oct 2025,12 Oct 2025,9.0,Rp 5.859.000,Tidak,Sembuh,
+PSN0139,Dedi Hidayat,RS-01,Laki-laki,38.0,62.3,157.8,25.0,121.0,76.0,225.9,,84.0,Diabetes Melitus,bpjs,Kelas 2,2025-05-20,2025-05-26,6.0,2730000,Tidak,Sembuh,
+PSN0364,Rizky Permata,RS-01,Laki-laki,23.0,70.9,,23.7,,47.0,244.7,207.0,82.0,Diabetes Mellitus,umum,Kelas 3,23 Nov 2025,04/12/2025,11.0,5149000,Tidak,Sembuh,Obat Antiinflamasi
+PSN0090,Lestari Setiawan,RS-01,Laki-laki,,82.9,177.3,26.4,151.0,84.0,,190.0,80.0,Hypertensi,Swasta,Kelas 1,11 Oct 2025,2025-10-15,4.0,4456000,Tidak,Sembuh,
+PSN0400,Eko Kurniawan,RS-01,Laki-laki,51.0,107.1,184.9,31.3,127.0,75.0,111.4,192.0,,Demam Berdarah,tidak ada,Kelas 2,2025-03-24,23/03/2025,1.0,1908000,Tidak,Sembuh,
+PSN0024,Rizky Santoso,RS-01,Perempuan,76.0,53.3,146.7,24.8,167.0,,102.5,,83.0,Hipertensi ,BPJS,kelas 1,14 Oct 2025,2025-10-17,3.0,9241000,Tidak,Meninggal,Seafood
+PSN0097,Siti Nugroho,RS-01,-,43.0,71.7,152.0,31.0,132.0,80.0,115.8,116.0,64.0,Stroke,Asuransi Swasta,Kelas 1,2025-06-07,06 Jul 2025,29.0,41887000,Tidak,Sembuh,
+PSN0080,Ahmad Pratama,RS-01,Laki-laki,42.0,89.6,168.1,31.7,126.0,71.0,106.4,182.0,85.0,Pneumonia,Swasta,Kelas 3,23 Dec 2025,28/12/2025,5.0,3107000,Tidak,Sembuh,
+PSN0377,Hendra Setiawan,RS-01,L,63 th,67.9,170.3,,185.0,118.0,105.7,208.0,73.0,HT,BPJS,Kelas 2,04 Jan 2025,2025-01-07,3.0,3976000,Tidak,Sembuh,
+PSN0193,Ahmad Susanti,RS-01,Wanita,48.0,69.3,164.7,25.5,125.0,74.0,,221.0,82.0,Demam Berdarah,BPJS Kesehatan,Kelas 3,02/11/2025,2025-11-09,7.0,6576000,Tidak,Sembuh,
+PSN0243,Ayu Handayani,RS-01,Perempuan,13.0,77.6,163.4,29.1,98.0,65.0,272.8,187.0,65.0,Diabetes Melitus,Swasta,Kelas 1,2025-12-16,2025-12-25,9.0,9614000,Tidak,Sembuh,
+PSN0371,Ayu Hidayat,RS-01,Laki-laki,45.0,115 lb,168.6,18.3,,76.0,,192.0,86.0,Pneumonia,BPJS,VIP,2025-01-17,20 Jan 2025,3.0,10445000,Tidak,Sembuh,
+PSN0172,Rina Hidayat,RS-01,Perempuan,55 th,71.9,167.9,25.5,141.0,77.0,109.4,226.0,72.0,Stroke,tidak ada,Kelas 3,07/07/2025,2025-07-16,9.0,11894000,Tidak,Sembuh,Seafood
+PSN0327,Sri Pratama,RS-01,Laki-laki,47.0,108.8,178.8,34.0,135.0,75.0,115.9,177.0,77.0,Pneumonia,Swasta,Kelas 1,2025-12-25,08 Jan 2026,14.0,47428000,Tidak,Sembuh,
+PSN0068,Dewi Hidayat,RS-01,Perempuan,49.0,53.0,152.0,22.9,100.0,74.0,240.7,219.0,85.0,Diabetes Melitus,umum,Kelas 1,2025-03-19,20/03/2025,1.0,2064000,Tidak,Sembuh,
+PSN0146,Hendra Rahayu,RS-01,Laki-laki,67.0,61.3,170.0,21.2,122.0,82.0,95.8,252.0,80.0,Pneumonia,Swasta,Kelas 3,2025-09-07,12 Sep 2025,5.0,9053000,Tidak,Sembuh,
+PSN0349,Lestari Wijaya,RS-01,Perempuan,51.0,55.6,157.7,22.4,116.0,78.0,207.8,,68.0,Diabetes Melitus,BPJS,Kelas 3,2025-08-12,2025-08-18,6.0,5937000,Tidak,Sembuh,
+PSN0082,Budi Saputra,RS-01,Perempuan,63.0,45.8,146.9,21.2,171.0,101.0,,211.0,75.0,Hipertensi,BPJS,VIP,31/07/2025,04 Aug 2025,4.0,8904000,Tidak,Sembuh,
+PSN0232,Ahmad Rahayu,RS-01,Perempuan,,58.8,160.8,22.7,137.0,85.0,216.6,216.0,53.0,Diabetes Melitus,BPJS,II,31 Aug 2025,09/09/2025,9.0,Rp 5.986.000,Tidak,Sembuh,
+PSN0038,Lestari Susanti,RS-01,Laki-laki,92.0,56.0,175.5,18.2,171.0,104.0,98.7,185.0,74.0,stroke,BPJS,Kelas 3,09 Sep 2025,15/09/2025,6.0,7864000,Tidak,Sembuh,
+PSN0331,Joko Pratama,RS-01,Perempuan,71.0,78.1,,32.4,179.0,108.0,109.9,,60.0,Hipertensi,BPJS,-,20/11/2025,23/11/2025,3.0,2623000,Tidak,Meninggal,
+PSN0386,Joko Pratama,RS-01,Perempuan,54.0,54.7,155.0,22.8,,84.0,219.4,176.0,81.0,Diabetes Melitus,BPJS,Kelas 2,04/08/2025,2025-08-07,3.0,Rp 4.799.000,Ya,Sembuh,Penisilin
+PSN0141,Bambang Kurniawan,RS-01,Perempuan,77.0,63.4,156.1,26.0,132.0,82.0,133.0,227.0,88.0,demam berdarah,Umum,Kelas 2,31/12/2025,2026-01-05,5.0,7500000,Tidak,Sembuh,
+PSN0035,Hendra Hidayat,RS-01,Perempuan,29.0,60.9,149.4,27.3,135.0,88.0,110.4,181.0,80.0,Stroke,BPJS,Kelas 2,28 Jan 2025,2025-02-14,17.0,12080000,Tidak,Sembuh,
+PSN0389,Fikri Kurniawan,RS-01,Perempuan,79.0,57.3,168.2,20.3,133.0,84.0,202.5,213.0,62.0,DM,BPJS,III,2025-10-26,02/11/2025,7.0,7414000,Tidak,Sembuh,
+PSN0126,Siti Wijaya,RS-01,Perempuan,45.0,71.9,159.1,,120.0,75.0,121.7,173.0,81.0,Pneumonia ,BPJS,Kelas 2,15 Feb 2025,2025-02-21,6.0,Rp 4.816.000,Ya,Sembuh,
+PSN0237,Ratna Pratama,RS-01,Perempuan,19.0,73.3,158.2,29.3,121.0,84.0,124.8,177.0,,DBD,Swasta,Kelas 3,21 May 2025,24 May 2025,3.0,2258000,Tidak,Sembuh,
+PSN0302,Ratna Hidayat,RS-01,Perempuan,55.0,47.6,157.8,19.1,109.0,65.0,115.2,159.0,90.0,Pneumonia,Umum,Kelas 2,2025-06-11,2025-06-17,6.0,8400000,Tidak,Sembuh,
+PSN0254,Ahmad Setiawan,RS-01,,52 th,65.2,158.5,26.0,149.0,86.0,112.7,228.0,72.0,Stroke,Umum,Kelas 2,15/12/2025,24 Dec 2025,9.0,10902000,Tidak,Sembuh,Penisilin
+PSN0177,Ayu Setiawan,RS-01,Perempuan,41.0,47.0,145.5,22.2,141.0,82.0,106.1,161.0,58.0,Hypertensi,Mandiri/Umum,Kelas 3,2025-01-13,16/01/2025,3.0,1928000,Tidak,Sembuh,
+PSN0093,Dewi Handayani,RS-01,Laki-laki,53.0,95.7,170.2,33.0,152.0,88.0,122.4,222.0,78.0,Hipertensi ,Asuransi Swasta,Kelas 3,2025-04-22,26 Apr 2025,4.0,4913000,Tidak,Sembuh,
+PSN0110,Dedi Pratama,RS-01,Laki-laki,59.0,55.5,166.8,19.9,,66.0,102.0,220.0,83.0,Gagal Jantung,BPJS Kesehatan,Kelas 2,13/09/2025,2025-09-18,5.0,Rp 3.582.000,Tidak,Sembuh,
+PSN0281,Joko Permata,RS-01,Laki-laki,51.0,72.0,171.3,24.5,136.0,80.0,97.0,179.0,86.0,Stroke,Swasta,Kelas 3,25/09/2025,2025-10-01,6.0,3213000,Tidak,Sembuh,Debu
+PSN0339,Rizky Handayani,RS-01,Laki-laki,48.0,59.0,162.8,,153.0,92.0,102.0,195.0,94.0,Hipertensi,Swasta,Kelas 1,2025-02-21,2025-02-25,4.0,9101000,Tidak,Sembuh,
+PSN0072,Bambang Hidayat,RS-01,laki-laki,50.0,77.4,163.4,29.0,134.0,84.0,220.2,219.0,83.0,Diabetes Melitus, BPJS,Kls 3,16/08/2025,27/08/2025,11.0,18314000,Tidak,Sembuh,
+PSN0162,Dewi Susanti,RS-01,Laki-laki,58.0,81.9,172.0,27.7,158.0,94.0,116.1,208.0,81.0,Stroke, BPJS,Kelas 1,25/08/2025,15/08/2025,10.0,28163000,Tidak,Sembuh,
+PSN0333,Agus Hidayat,RS-01,Laki-laki,44.0,81.0,165.9,29.4,137.0,85.0,127.7,210.0,75.0,Stroke,Umum,VIP,10/07/2025,05 Aug 2025,,190952000,Tidak,Sembuh,
+PSN0270,Siti Nugroho,RS-01,Wanita,73.0,49.7,154.9,,114.0,76.0,91.1,226.0,86.0,Gagal  Jantung,Swasta,Kls 3,2025-06-16,01/07/2025,15.0,14430000,Tidak,Sembuh,
+PSN0338,Mega Susanti,RS-01,Perempuan,58.0,95.8,170.5,33.0,137.0,85.0,115.6,170.0,70.0,Pneumonia,BPJS,Kls 1,2025-09-09,16/09/2025,7.0,6396000,Tidak,Meninggal,Debu
+PSN0092,Rina Rahayu,RS-01,Laki-laki,66.0,,169.4,21.2,164.0,97.0,95.9,,79.0,Hipertensi,umum,Kelas 3,2025-07-24,23 Jul 2025,1.0,1267000,Tidak,Sembuh,
+PSN0081,Mega Pratama,RS-01,Laki-laki,28.0,78.3,170.1,27.1,117.0,82.0,129.3,159.0,77.0,Pneumonia,BPJS,Kelas 3,11/08/2025,2025-08-31,20.0,17949000,Tidak,Sembuh,Seafood
+PSN0192,Mega Nugroho,RS-01,Perempuan,61.0,61.6,154.1,25.9,145.0,88.0,170.9,,74.0,Hipertensi,Umum,Kelas 3,2025-02-14,19/02/2025,5.0,8917000,Tidak,Meninggal,
+PSN0041,Joko Saputra,RS-01,laki-laki,73.0,56.1,150.3,24.8,148.0,84.0,110.3,206.0,71.0,Stroke,Swasta,Kelas 3,01 May 2025,12/05/2025,11.0,8325000,Tidak,Sembuh,

@@ -1,0 +1,60 @@
+DESKRIPSI KASUS DAN SOAL (TINGKAT LANJUT)
+Pembuat soal : Muhammad Endi Saputra Ramadhan
+NIM          : 3022410040
+
+KASUS: Analisis Data Pasien Rawat Inap Rumah Sakit
+Sebuah rumah sakit ingin memprediksi risiko readmisi pasien dalam 30 hari dan
+menganalisis faktor biaya perawatan. Data berasal dari beberapa sistem input
+sehingga formatnya tidak seragam dan banyak kesalahan pencatatan. Data harus
+dibersihkan dan ditransformasi sebelum dapat dimodelkan.
+
+Dataset : data_pasien_rs_kotor.csv (418 baris, 23 variabel)
+Variabel:
+ - Identitas / administratif : ID_Pasien, Nama_Pasien, Kode_RS, Catatan_Alergi
+ - Demografi                 : Jenis_Kelamin, Usia
+ - Fisik                     : Berat_Badan, Tinggi_Badan, BMI
+ - Klinis                    : Tekanan_Sistolik, Tekanan_Diastolik, Gula_Darah,
+                               Kolesterol, Detak_Jantung, Diagnosis
+ - Administrasi rawat        : Jenis_Asuransi, Ruang_Rawat, Tanggal_Masuk,
+                               Tanggal_Keluar, Lama_Rawat_Hari, Biaya_Perawatan
+ - Target                    : Readmisi_30Hari, Status_Pulang
+
+Masalah data (jangan dibocorkan ke pengerja, tugasnya menemukan sendiri):
+ 1. Missing value numerik & kategorik, termasuk nilai samaran (N/A, -, -999)
+ 2. Duplikat persis dan duplikat ID dengan isi berbeda
+ 3. Kolom konstan, kolom >60% kosong, dan kolom identitas
+ 4. Kategori tidak konsisten (singkatan, typo, huruf besar/kecil, spasi)
+ 5. Tipe & satuan campuran (berat kg/lb/gram, tinggi cm/meter, "45 th", "Rp ...")
+ 6. Format tanggal campuran dan tanggal keluar lebih awal dari tanggal masuk
+ 7. Lama rawat tidak konsisten dengan selisih tanggal
+ 8. Noise & nilai mustahil (sistolik 0/900, detak jantung 0/300, usia 250, dst.)
+ 9. Logika medis dilanggar (diastolik >= sistolik)
+10. Outlier ekstrem dan distribusi sangat miring (Biaya_Perawatan)
+11. Variabel turunan/redundan (BMI) dan multikolinearitas antar fitur
+12. Missing value tidak acak (Kolesterol lebih sering kosong pada lansia)
+13. Kelas target tidak seimbang (Status_Pulang, Readmisi_30Hari)
+14. Skala antar variabel berbeda jauh
+
+SOAL:
+ 1. Lakukan eksplorasi dan buat daftar semua masalah data beserta buktinya.
+ 2. Hapus atribut tidak relevan dan tangani duplikat (jelaskan aturan memilih
+    baris untuk ID ganda).
+ 3. Standarkan kategori dan konversi tipe/satuan data.
+ 4. Parse tanggal, perbaiki tanggal terbalik, dan validasi Lama_Rawat_Hari
+    terhadap selisih tanggal.
+ 5. Tangani noise, nilai samaran, dan pelanggaran logika medis; hitung ulang BMI.
+ 6. Tangani missing value dengan statistik deskriptif (mean, median, modus,
+    skewness). Jelaskan mengapa imputasi per kelompok lebih tepat daripada median
+    global untuk Kolesterol.
+ 7. Deteksi outlier dengan IQR, lalu tangani distribusi miring pada
+    Biaya_Perawatan (transformasi log) dan lakukan capping.
+ 8. Encoding: pilih ordinal untuk Ruang_Rawat dan one-hot untuk kategori nominal.
+    Cek proporsi kelas target.
+ 9. Buat matriks korelasi dan identifikasi pasangan fitur yang berkorelasi kuat.
+10. Data Transformation: Decimal Scaling, Min-Max, Standardization, Robust Scaling
+    (manual dan library) pada Usia dan Biaya_Perawatan; bandingkan hasilnya
+    dan jelaskan metode mana yang paling cocok untuk Biaya_Perawatan. Lakukan
+    juga binning Usia menjadi kelompok umur.
+11. Lakukan PCA pada fitur numerik, tampilkan explained variance dan scree plot,
+    tentukan jumlah komponen untuk >= 85% varians, lalu interpretasikan loading
+    komponen utama.
